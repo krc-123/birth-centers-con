@@ -1,0 +1,52 @@
+state,state_name,births,fbc_births,fbc_suppressed,fbc_per_1000_births,home_per_1000_births,npi_active_stock,npi_stock_per_100k_births,con_group,con_ever,con_repealed,repeal_effective
+AK,Alaska,8943,480,0,53.673,29.297,21,234.821,Still requires CON,1,0,NA
+WA,Washington,83118,1723,0,20.73,24.411,79,95.046,Never required CON,0,0,NA
+ID,Idaho,23276,451,0,19.376,47.86,15,64.444,Never required CON,0,0,NA
+MT,Montana,11331,217,0,19.151,44.303,24,211.808,Never required CON,0,0,NA
+DE,Delaware,10550,201,0,19.052,11.754,4,37.915,Still requires CON,1,0,NA
+OR,Oregon,38963,728,0,18.684,26.974,38,97.528,Never required CON,0,0,NA
+IN,Indiana,80257,1145,0,14.267,20.908,44,54.824,Never required CON,0,0,NA
+CO,Colorado,64268,865,0,13.459,21.193,133,206.946,Never required CON,0,0,NA
+UT,Utah,46664,587,0,12.579,31.202,101,216.441,Never required CON,0,0,NA
+MN,Minnesota,62110,709,0,11.415,18.693,45,72.452,Never required CON,0,0,NA
+TX,Texas,390828,3877,0,9.92,11.591,155,39.659,Never required CON,0,0,NA
+NH,New Hampshire,11770,116,0,9.856,24.299,5,42.481,Never required CON,0,0,NA
+AZ,Arizona,78711,740,0,9.401,16.656,45,57.171,Never required CON,0,0,NA
+NM,New Mexico,21328,194,0,9.096,17.161,5,23.443,Never required CON,0,0,NA
+KS,Kansas,33984,270,0,7.945,23.423,26,76.507,Never required CON,0,0,NA
+PA,Pennsylvania,127299,1002,0,7.871,35.766,67,52.632,Never required CON,0,0,NA
+OK,Oklahoma,47962,354,0,7.381,14.032,10,20.85,Never required CON,0,0,NA
+WI,Wisconsin,59686,434,0,7.271,37.882,80,134.035,Never required CON,0,0,NA
+OH,Ohio,126795,857,0,6.759,19.22,41,32.336,Never required CON,0,0,NA
+ME,Maine,11601,75,0,6.465,28.446,5,43.1,Never required CON,0,0,NA
+SC,South Carolina,58768,361,0,6.143,16.165,27,45.943,Never required CON,0,0,NA
+FL,Florida,224389,1363,0,6.074,13.86,103,45.902,Never required CON,0,0,NA
+NJ,New Jersey,101372,605,0,5.968,5.169,12,11.838,Never required CON,0,0,NA
+WY,Wyoming,6089,36,0,5.912,34.488,10,164.231,Never required CON,0,0,NA
+SD,South Dakota,11451,60,0,5.24,23.229,7,61.13,Never required CON,0,0,NA
+VA,Virginia,94054,489,0,5.199,16.278,67,71.236,Never required CON,0,0,NA
+NC,North Carolina,122856,611,0,4.973,10.964,32,26.047,Never required CON,0,0,NA
+TN,Tennessee,83833,374,0,4.461,21.435,40,47.714,Still requires CON,1,0,NA
+MI,Michigan,99525,404,0,4.059,19.925,31,31.148,Dropped CON 2023 to 2025,1,1,2025-04-02
+NV,Nevada,32381,130,0,4.015,19.456,35,108.088,Still requires CON,1,0,NA
+IL,Illinois,125731,494,0,3.929,9.807,19,15.112,Still requires CON,1,0,NA
+CA,California,402075,1291,0,3.211,9.508,201,49.991,Never required CON,0,0,NA
+VT,Vermont,5023,16,0,3.185,29.863,2,39.817,Dropped CON 2023 to 2025,1,1,2025-07-01
+DC,District of Columbia,7616,24,0,3.151,6.04,2,26.261,Still requires CON,1,0,NA
+KY,Kentucky,52913,156,0,2.948,22.093,7,13.229,Dropped CON 2023 to 2025,1,1,2025-06-27
+GA,Georgia,126437,367,0,2.903,11.492,33,26.1,Dropped CON 2023 to 2025,1,1,2024-07-01
+CT,Connecticut,34599,88,0,2.543,7.399,9,26.012,Dropped CON 2023 to 2025,1,1,2024-01-01
+WV,West Virginia,17022,37,0,2.174,15.333,0,0,Dropped CON 2023 to 2025,1,1,2023-06-09
+MO,Missouri,67998,132,0,1.941,25.324,18,26.471,Never required CON,0,0,NA
+MA,Massachusetts,68184,118,0,1.731,8.169,16,23.466,Never required CON,0,0,NA
+NE,Nebraska,24785,39,0,1.574,6.536,2,8.069,Never required CON,0,0,NA
+MD,Maryland,65797,78,0,1.185,13.283,7,10.639,Still requires CON,1,0,NA
+NY,New York,205489,218,0,1.061,15.115,53,25.792,Still requires CON,1,0,NA
+LA,Louisiana,53305,54,0,1.013,3.771,28,52.528,Never required CON,0,0,NA
+IA,Iowa,36436,29,0,0.796,23.548,1,2.745,Never required CON,0,0,NA
+AL,Alabama,57934,19,0,0.328,9.839,16,27.618,Still requires CON,1,0,NA
+AR,Arkansas,35395,NA,1,NA,16.584,1,2.825,Never required CON,0,0,NA
+HI,Hawaii,14917,NA,1,NA,29.698,8,53.63,Still requires CON,1,0,NA
+MS,Mississippi,33473,NA,1,NA,8.066,1,2.987,Never required CON,0,0,NA
+ND,North Dakota,9634,NA,1,NA,20.241,0,0,Never required CON,0,0,NA
+RI,Rhode Island,10009,NA,1,NA,5.995,0,0,Never required CON,0,0,NA

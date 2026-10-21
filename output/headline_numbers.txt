@@ -1,0 +1,7 @@
+National birth center births: 10,796 in 2007 (2.5 per 1,000), 23,928 in 2022 (6.5), 22,618 in 2024 (6.2)
+2022 cross-section: median 2.8 per 1,000 in CON states (n=16) vs 7.0 in non-CON states (n=35); Wilcoxon p=0.031
+Share of states under 1 per 1,000: CON 12%, non-CON 14%
+TWFE, FBC per 1,000 on CON share of year: 1.65 (se 0.48, p=0.00)
+TWFE, NPI entries per 100k births on CON share of year: 1.74 (se 0.92, p=0.06)
+Georgia residents' birth center births: 206 (2016), 485 (2021), 367 (2024); new GA birth center NPIs 2024 to Oct 2026: 2
+Active birth center NPIs in the 50 states and DC as of October 2026: 1,943; AABC counted about 400 birth centers in 2022
