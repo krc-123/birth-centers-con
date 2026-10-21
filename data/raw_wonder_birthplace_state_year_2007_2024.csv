@@ -1,0 +1,3464 @@
+state_name,state_fips,year,birthplace,births
+Alabama,01,2007,In Hospital,64572
+Alabama,01,2007,Freestanding Birth Center,12
+Alabama,01,2007,Residence,164
+Alabama,01,2007,Other,50
+Alabama,01,2008,In Hospital,64314
+Alabama,01,2008,Freestanding Birth Center,12
+Alabama,01,2008,Residence,163
+Alabama,01,2008,Other,52
+Alabama,01,2009,In Hospital,62261
+Alabama,01,2009,Residence,163
+Alabama,01,2009,Other,41
+Alabama,01,2010,In Hospital,59820
+Alabama,01,2010,Residence,175
+Alabama,01,2010,Other,42
+Alabama,01,2011,In Hospital,59101
+Alabama,01,2011,Residence,205
+Alabama,01,2011,Other,40
+Alabama,01,2012,In Hospital,58220
+Alabama,01,2012,Residence,158
+Alabama,01,2012,Other,53
+Alabama,01,2013,In Hospital,57930
+Alabama,01,2013,Residence,172
+Alabama,01,2013,Other,49
+Alabama,01,2014,In Hospital,59166
+Alabama,01,2014,Clinic/Doctor's Office,10
+Alabama,01,2014,Residence,171
+Alabama,01,2014,Other,69
+Alabama,01,2015,In Hospital,59409
+Alabama,01,2015,Residence,177
+Alabama,01,2015,Other,55
+Alabama,01,2016,In Hospital,58854
+Alabama,01,2016,Freestanding Birth Center,21
+Alabama,01,2016,Residence,183
+Alabama,01,2016,Other,84
+Alabama,01,2017,In Hospital,58685
+Alabama,01,2017,Freestanding Birth Center,12
+Alabama,01,2017,Residence,182
+Alabama,01,2017,Other,54
+Alabama,01,2018,In Hospital,57467
+Alabama,01,2018,Residence,218
+Alabama,01,2018,Other,67
+Alabama,01,2019,In Hospital,58292
+Alabama,01,2019,Freestanding Birth Center,13
+Alabama,01,2019,Residence,243
+Alabama,01,2019,Other,66
+Alabama,01,2020,In Hospital,57251
+Alabama,01,2020,Residence,321
+Alabama,01,2020,Other,65
+Alabama,01,2021,In Hospital,57544
+Alabama,01,2021,Residence,422
+Alabama,01,2021,Other,73
+Alabama,01,2022,In Hospital,57572
+Alabama,01,2022,Residence,476
+Alabama,01,2022,Other,89
+Alabama,01,2023,In Hospital,57273
+Alabama,01,2023,Residence,489
+Alabama,01,2023,Other,87
+Alabama,01,2024,In Hospital,57268
+Alabama,01,2024,Freestanding Birth Center,19
+Alabama,01,2024,Residence,570
+Alabama,01,2024,Other,71
+Alaska,02,2007,In Hospital,10496
+Alaska,02,2007,Freestanding Birth Center,340
+Alaska,02,2007,Clinic/Doctor's Office,16
+Alaska,02,2007,Residence,184
+Alaska,02,2007,Other,16
+Alaska,02,2008,In Hospital,10796
+Alaska,02,2008,Freestanding Birth Center,441
+Alaska,02,2008,Residence,179
+Alaska,02,2008,Other,10
+Alaska,02,2009,In Hospital,10674
+Alaska,02,2009,Freestanding Birth Center,455
+Alaska,02,2009,Residence,168
+Alaska,02,2009,Unknown or Not Stated,17
+Alaska,02,2010,In Hospital,10775
+Alaska,02,2010,Freestanding Birth Center,503
+Alaska,02,2010,Residence,182
+Alaska,02,2011,In Hospital,10766
+Alaska,02,2011,Freestanding Birth Center,476
+Alaska,02,2011,Residence,197
+Alaska,02,2012,In Hospital,10505
+Alaska,02,2012,Freestanding Birth Center,470
+Alaska,02,2012,Residence,183
+Alaska,02,2012,Unknown or Not Stated,14
+Alaska,02,2013,In Hospital,10697
+Alaska,02,2013,Freestanding Birth Center,530
+Alaska,02,2013,Clinic/Doctor's Office,10
+Alaska,02,2013,Residence,198
+Alaska,02,2014,In Hospital,10587
+Alaska,02,2014,Freestanding Birth Center,590
+Alaska,02,2014,Clinic/Doctor's Office,11
+Alaska,02,2014,Residence,197
+Alaska,02,2015,In Hospital,10442
+Alaska,02,2015,Freestanding Birth Center,625
+Alaska,02,2015,Clinic/Doctor's Office,15
+Alaska,02,2015,Residence,196
+Alaska,02,2016,In Hospital,10329
+Alaska,02,2016,Freestanding Birth Center,621
+Alaska,02,2016,Clinic/Doctor's Office,10
+Alaska,02,2016,Residence,246
+Alaska,02,2017,In Hospital,9622
+Alaska,02,2017,Freestanding Birth Center,589
+Alaska,02,2017,Clinic/Doctor's Office,23
+Alaska,02,2017,Residence,206
+Alaska,02,2018,In Hospital,9391
+Alaska,02,2018,Freestanding Birth Center,481
+Alaska,02,2018,Clinic/Doctor's Office,14
+Alaska,02,2018,Residence,194
+Alaska,02,2019,In Hospital,9148
+Alaska,02,2019,Freestanding Birth Center,461
+Alaska,02,2019,Clinic/Doctor's Office,14
+Alaska,02,2019,Residence,195
+Alaska,02,2020,In Hospital,8787
+Alaska,02,2020,Freestanding Birth Center,448
+Alaska,02,2020,Clinic/Doctor's Office,13
+Alaska,02,2020,Residence,213
+Alaska,02,2021,In Hospital,8695
+Alaska,02,2021,Freestanding Birth Center,425
+Alaska,02,2021,Residence,235
+Alaska,02,2022,In Hospital,8611
+Alaska,02,2022,Freestanding Birth Center,468
+Alaska,02,2022,Clinic/Doctor's Office,23
+Alaska,02,2022,Residence,249
+Alaska,02,2023,In Hospital,8262
+Alaska,02,2023,Freestanding Birth Center,450
+Alaska,02,2023,Clinic/Doctor's Office,22
+Alaska,02,2023,Residence,273
+Alaska,02,2024,In Hospital,8173
+Alaska,02,2024,Freestanding Birth Center,480
+Alaska,02,2024,Clinic/Doctor's Office,17
+Alaska,02,2024,Residence,262
+Arizona,04,2007,In Hospital,101939
+Arizona,04,2007,Freestanding Birth Center,447
+Arizona,04,2007,Clinic/Doctor's Office,34
+Arizona,04,2007,Residence,541
+Arizona,04,2007,Other,17
+Arizona,04,2008,In Hospital,98412
+Arizona,04,2008,Freestanding Birth Center,349
+Arizona,04,2008,Clinic/Doctor's Office,35
+Arizona,04,2008,Residence,624
+Arizona,04,2008,Other,17
+Arizona,04,2009,In Hospital,91692
+Arizona,04,2009,Freestanding Birth Center,411
+Arizona,04,2009,Clinic/Doctor's Office,41
+Arizona,04,2009,Residence,632
+Arizona,04,2009,Other,13
+Arizona,04,2010,In Hospital,86346
+Arizona,04,2010,Freestanding Birth Center,437
+Arizona,04,2010,Clinic/Doctor's Office,13
+Arizona,04,2010,Residence,663
+Arizona,04,2010,Other,15
+Arizona,04,2011,In Hospital,84380
+Arizona,04,2011,Freestanding Birth Center,454
+Arizona,04,2011,Clinic/Doctor's Office,10
+Arizona,04,2011,Residence,679
+Arizona,04,2011,Other,14
+Arizona,04,2012,In Hospital,85177
+Arizona,04,2012,Freestanding Birth Center,505
+Arizona,04,2012,Clinic/Doctor's Office,25
+Arizona,04,2012,Residence,724
+Arizona,04,2013,In Hospital,84450
+Arizona,04,2013,Freestanding Birth Center,459
+Arizona,04,2013,Residence,672
+Arizona,04,2013,Other,10
+Arizona,04,2014,In Hospital,85628
+Arizona,04,2014,Freestanding Birth Center,511
+Arizona,04,2014,Residence,702
+Arizona,04,2014,Other,39
+Arizona,04,2015,In Hospital,84090
+Arizona,04,2015,Freestanding Birth Center,492
+Arizona,04,2015,Clinic/Doctor's Office,10
+Arizona,04,2015,Residence,716
+Arizona,04,2015,Other,42
+Arizona,04,2016,In Hospital,83081
+Arizona,04,2016,Freestanding Birth Center,582
+Arizona,04,2016,Clinic/Doctor's Office,38
+Arizona,04,2016,Residence,775
+Arizona,04,2016,Other,42
+Arizona,04,2017,In Hospital,80473
+Arizona,04,2017,Freestanding Birth Center,607
+Arizona,04,2017,Clinic/Doctor's Office,20
+Arizona,04,2017,Residence,706
+Arizona,04,2017,Other,65
+Arizona,04,2018,In Hospital,79284
+Arizona,04,2018,Freestanding Birth Center,702
+Arizona,04,2018,Clinic/Doctor's Office,22
+Arizona,04,2018,Residence,667
+Arizona,04,2018,Other,47
+Arizona,04,2019,In Hospital,78020
+Arizona,04,2019,Freestanding Birth Center,584
+Arizona,04,2019,Clinic/Doctor's Office,13
+Arizona,04,2019,Residence,706
+Arizona,04,2019,Other,48
+Arizona,04,2020,In Hospital,75355
+Arizona,04,2020,Freestanding Birth Center,594
+Arizona,04,2020,Clinic/Doctor's Office,22
+Arizona,04,2020,Residence,931
+Arizona,04,2020,Other,45
+Arizona,04,2021,In Hospital,76054
+Arizona,04,2021,Freestanding Birth Center,704
+Arizona,04,2021,Clinic/Doctor's Office,23
+Arizona,04,2021,Residence,1065
+Arizona,04,2021,Other,68
+Arizona,04,2022,In Hospital,76557
+Arizona,04,2022,Freestanding Birth Center,728
+Arizona,04,2022,Clinic/Doctor's Office,22
+Arizona,04,2022,Residence,1182
+Arizona,04,2022,Other,57
+Arizona,04,2023,In Hospital,76124
+Arizona,04,2023,Freestanding Birth Center,722
+Arizona,04,2023,Clinic/Doctor's Office,15
+Arizona,04,2023,Residence,1157
+Arizona,04,2023,Other,75
+Arizona,04,2024,In Hospital,76595
+Arizona,04,2024,Freestanding Birth Center,740
+Arizona,04,2024,Residence,1311
+Arizona,04,2024,Other,54
+Arkansas,05,2007,In Hospital,41110
+Arkansas,05,2007,Residence,240
+Arkansas,05,2007,Other,20
+Arkansas,05,2008,In Hospital,40376
+Arkansas,05,2008,Freestanding Birth Center,13
+Arkansas,05,2008,Residence,241
+Arkansas,05,2008,Other,28
+Arkansas,05,2008,Unknown or Not Stated,11
+Arkansas,05,2009,In Hospital,39512
+Arkansas,05,2009,Freestanding Birth Center,10
+Arkansas,05,2009,Residence,275
+Arkansas,05,2010,In Hospital,38224
+Arkansas,05,2010,Residence,295
+Arkansas,05,2010,Other,17
+Arkansas,05,2011,In Hospital,38371
+Arkansas,05,2011,Freestanding Birth Center,10
+Arkansas,05,2011,Residence,319
+Arkansas,05,2011,Other,15
+Arkansas,05,2012,In Hospital,37943
+Arkansas,05,2012,Residence,384
+Arkansas,05,2012,Other,14
+Arkansas,05,2013,In Hospital,37381
+Arkansas,05,2013,Freestanding Birth Center,32
+Arkansas,05,2013,Residence,396
+Arkansas,05,2013,Other,22
+Arkansas,05,2014,In Hospital,37979
+Arkansas,05,2014,Freestanding Birth Center,121
+Arkansas,05,2014,Residence,381
+Arkansas,05,2014,Other,30
+Arkansas,05,2015,In Hospital,38349
+Arkansas,05,2015,Freestanding Birth Center,138
+Arkansas,05,2015,Residence,362
+Arkansas,05,2015,Other,36
+Arkansas,05,2016,In Hospital,37753
+Arkansas,05,2016,Freestanding Birth Center,101
+Arkansas,05,2016,Residence,349
+Arkansas,05,2016,Other,69
+Arkansas,05,2017,In Hospital,37098
+Arkansas,05,2017,Freestanding Birth Center,87
+Arkansas,05,2017,Residence,292
+Arkansas,05,2017,Other,43
+Arkansas,05,2018,In Hospital,36580
+Arkansas,05,2018,Freestanding Birth Center,71
+Arkansas,05,2018,Residence,326
+Arkansas,05,2018,Other,40
+Arkansas,05,2019,In Hospital,36169
+Arkansas,05,2019,Residence,326
+Arkansas,05,2019,Other,60
+Arkansas,05,2020,In Hospital,34841
+Arkansas,05,2020,Freestanding Birth Center,12
+Arkansas,05,2020,Residence,353
+Arkansas,05,2020,Other,41
+Arkansas,05,2021,In Hospital,35471
+Arkansas,05,2021,Residence,441
+Arkansas,05,2021,Other,44
+Arkansas,05,2022,In Hospital,34899
+Arkansas,05,2022,Freestanding Birth Center,10
+Arkansas,05,2022,Residence,513
+Arkansas,05,2022,Other,45
+Arkansas,05,2023,In Hospital,34629
+Arkansas,05,2023,Residence,576
+Arkansas,05,2023,Other,51
+Arkansas,05,2024,In Hospital,34758
+Arkansas,05,2024,Residence,587
+Arkansas,05,2024,Other,38
+California,06,2007,In Hospital,563143
+California,06,2007,Freestanding Birth Center,354
+California,06,2007,Residence,2448
+California,06,2007,Other,406
+California,06,2007,Unknown or Not Stated,63
+California,06,2008,In Hospital,548235
+California,06,2008,Freestanding Birth Center,599
+California,06,2008,Residence,2583
+California,06,2008,Other,245
+California,06,2008,Unknown or Not Stated,110
+California,06,2009,In Hospital,523368
+California,06,2009,Freestanding Birth Center,557
+California,06,2009,Residence,2720
+California,06,2009,Other,230
+California,06,2009,Unknown or Not Stated,139
+California,06,2010,In Hospital,506302
+California,06,2010,Freestanding Birth Center,623
+California,06,2010,Residence,2844
+California,06,2010,Other,237
+California,06,2010,Unknown or Not Stated,188
+California,06,2011,In Hospital,497952
+California,06,2011,Freestanding Birth Center,720
+California,06,2011,Residence,3054
+California,06,2011,Other,367
+California,06,2011,Unknown or Not Stated,21
+California,06,2012,In Hospital,499308
+California,06,2012,Freestanding Birth Center,748
+California,06,2012,Residence,3353
+California,06,2012,Other,314
+California,06,2012,Unknown or Not Stated,25
+California,06,2013,In Hospital,489897
+California,06,2013,Freestanding Birth Center,858
+California,06,2013,Clinic/Doctor's Office,13
+California,06,2013,Residence,3527
+California,06,2013,Other,395
+California,06,2013,Unknown or Not Stated,15
+California,06,2014,In Hospital,497809
+California,06,2014,Freestanding Birth Center,977
+California,06,2014,Clinic/Doctor's Office,10
+California,06,2014,Residence,3624
+California,06,2014,Other,445
+California,06,2014,Unknown or Not Stated,14
+California,06,2015,In Hospital,486454
+California,06,2015,Freestanding Birth Center,1149
+California,06,2015,Residence,3709
+California,06,2015,Other,413
+California,06,2015,Unknown or Not Stated,18
+California,06,2016,In Hospital,483521
+California,06,2016,Freestanding Birth Center,1338
+California,06,2016,Residence,3553
+California,06,2016,Other,393
+California,06,2016,Unknown or Not Stated,15
+California,06,2017,In Hospital,466260
+California,06,2017,Freestanding Birth Center,1413
+California,06,2017,Residence,3520
+California,06,2017,Other,434
+California,06,2017,Unknown or Not Stated,26
+California,06,2018,In Hospital,449929
+California,06,2018,Freestanding Birth Center,1329
+California,06,2018,Residence,3269
+California,06,2018,Other,368
+California,06,2018,Unknown or Not Stated,16
+California,06,2019,In Hospital,441421
+California,06,2019,Freestanding Birth Center,1493
+California,06,2019,Clinic/Doctor's Office,34
+California,06,2019,Residence,3081
+California,06,2019,Other,448
+California,06,2020,In Hospital,414317
+California,06,2020,Freestanding Birth Center,1911
+California,06,2020,Clinic/Doctor's Office,15
+California,06,2020,Residence,3591
+California,06,2020,Other,424
+California,06,2021,In Hospital,414052
+California,06,2021,Freestanding Birth Center,1972
+California,06,2021,Clinic/Doctor's Office,12
+California,06,2021,Residence,4079
+California,06,2021,Other,492
+California,06,2022,In Hospital,412663
+California,06,2022,Freestanding Birth Center,1919
+California,06,2022,Residence,4033
+California,06,2022,Other,482
+California,06,2023,In Hospital,394349
+California,06,2023,Freestanding Birth Center,1560
+California,06,2023,Residence,3701
+California,06,2023,Other,491
+California,06,2024,In Hospital,396418
+California,06,2024,Freestanding Birth Center,1291
+California,06,2024,Residence,3823
+California,06,2024,Other,541
+Colorado,08,2007,In Hospital,69947
+Colorado,08,2007,Freestanding Birth Center,77
+Colorado,08,2007,Residence,767
+Colorado,08,2007,Other,15
+Colorado,08,2008,In Hospital,69037
+Colorado,08,2008,Freestanding Birth Center,143
+Colorado,08,2008,Residence,825
+Colorado,08,2008,Other,22
+Colorado,08,2009,In Hospital,67556
+Colorado,08,2009,Freestanding Birth Center,216
+Colorado,08,2009,Residence,834
+Colorado,08,2009,Other,22
+Colorado,08,2010,In Hospital,65196
+Colorado,08,2010,Freestanding Birth Center,262
+Colorado,08,2010,Residence,874
+Colorado,08,2010,Other,19
+Colorado,08,2011,In Hospital,63897
+Colorado,08,2011,Freestanding Birth Center,249
+Colorado,08,2011,Residence,889
+Colorado,08,2011,Other,18
+Colorado,08,2012,In Hospital,63886
+Colorado,08,2012,Freestanding Birth Center,278
+Colorado,08,2012,Residence,992
+Colorado,08,2012,Other,26
+Colorado,08,2013,In Hospital,63712
+Colorado,08,2013,Freestanding Birth Center,279
+Colorado,08,2013,Residence,980
+Colorado,08,2013,Other,32
+Colorado,08,2014,In Hospital,64431
+Colorado,08,2014,Freestanding Birth Center,337
+Colorado,08,2014,Residence,1025
+Colorado,08,2014,Other,35
+Colorado,08,2015,In Hospital,65057
+Colorado,08,2015,Freestanding Birth Center,428
+Colorado,08,2015,Residence,1049
+Colorado,08,2015,Other,43
+Colorado,08,2016,In Hospital,64999
+Colorado,08,2016,Freestanding Birth Center,608
+Colorado,08,2016,Residence,944
+Colorado,08,2016,Other,55
+Colorado,08,2017,In Hospital,62703
+Colorado,08,2017,Freestanding Birth Center,589
+Colorado,08,2017,Residence,1040
+Colorado,08,2017,Other,45
+Colorado,08,2018,In Hospital,61269
+Colorado,08,2018,Freestanding Birth Center,578
+Colorado,08,2018,Residence,1001
+Colorado,08,2018,Other,31
+Colorado,08,2019,In Hospital,61134
+Colorado,08,2019,Freestanding Birth Center,802
+Colorado,08,2019,Residence,899
+Colorado,08,2019,Other,23
+Colorado,08,2020,In Hospital,59528
+Colorado,08,2020,Freestanding Birth Center,858
+Colorado,08,2020,Residence,1065
+Colorado,08,2020,Other,35
+Colorado,08,2021,In Hospital,60812
+Colorado,08,2021,Freestanding Birth Center,870
+Colorado,08,2021,Residence,1227
+Colorado,08,2021,Other,37
+Colorado,08,2022,In Hospital,60279
+Colorado,08,2022,Freestanding Birth Center,845
+Colorado,08,2022,Residence,1214
+Colorado,08,2022,Other,40
+Colorado,08,2023,In Hospital,59453
+Colorado,08,2023,Freestanding Birth Center,801
+Colorado,08,2023,Residence,1187
+Colorado,08,2023,Other,39
+Colorado,08,2023,Unknown or Not Stated,10
+Colorado,08,2024,In Hospital,62020
+Colorado,08,2024,Freestanding Birth Center,865
+Colorado,08,2024,Residence,1362
+Colorado,08,2024,Unknown or Not Stated,19
+Connecticut,09,2007,In Hospital,41461
+Connecticut,09,2007,Freestanding Birth Center,85
+Connecticut,09,2007,Residence,107
+Connecticut,09,2008,In Hospital,40153
+Connecticut,09,2008,Freestanding Birth Center,71
+Connecticut,09,2008,Residence,169
+Connecticut,09,2009,In Hospital,38663
+Connecticut,09,2009,Freestanding Birth Center,67
+Connecticut,09,2009,Residence,159
+Connecticut,09,2010,In Hospital,37486
+Connecticut,09,2010,Freestanding Birth Center,84
+Connecticut,09,2010,Residence,130
+Connecticut,09,2011,In Hospital,37003
+Connecticut,09,2011,Freestanding Birth Center,95
+Connecticut,09,2011,Residence,167
+Connecticut,09,2011,Other,10
+Connecticut,09,2012,In Hospital,36233
+Connecticut,09,2012,Freestanding Birth Center,98
+Connecticut,09,2012,Residence,195
+Connecticut,09,2013,In Hospital,35767
+Connecticut,09,2013,Freestanding Birth Center,104
+Connecticut,09,2013,Residence,203
+Connecticut,09,2014,In Hospital,35938
+Connecticut,09,2014,Freestanding Birth Center,124
+Connecticut,09,2014,Residence,213
+Connecticut,09,2015,In Hospital,35399
+Connecticut,09,2015,Freestanding Birth Center,98
+Connecticut,09,2015,Residence,239
+Connecticut,09,2016,In Hospital,35650
+Connecticut,09,2016,Freestanding Birth Center,101
+Connecticut,09,2016,Clinic/Doctor's Office,14
+Connecticut,09,2016,Residence,237
+Connecticut,09,2016,Other,13
+Connecticut,09,2017,In Hospital,34879
+Connecticut,09,2017,Freestanding Birth Center,104
+Connecticut,09,2017,Residence,212
+Connecticut,09,2017,Other,17
+Connecticut,09,2018,In Hospital,34396
+Connecticut,09,2018,Freestanding Birth Center,77
+Connecticut,09,2018,Residence,222
+Connecticut,09,2018,Other,26
+Connecticut,09,2019,In Hospital,33941
+Connecticut,09,2019,Freestanding Birth Center,85
+Connecticut,09,2019,Residence,217
+Connecticut,09,2019,Other,14
+Connecticut,09,2020,In Hospital,33088
+Connecticut,09,2020,Freestanding Birth Center,83
+Connecticut,09,2020,Residence,271
+Connecticut,09,2020,Other,17
+Connecticut,09,2021,In Hospital,35286
+Connecticut,09,2021,Freestanding Birth Center,118
+Connecticut,09,2021,Residence,238
+Connecticut,09,2021,Other,26
+Connecticut,09,2022,In Hospital,34948
+Connecticut,09,2022,Freestanding Birth Center,102
+Connecticut,09,2022,Residence,258
+Connecticut,09,2022,Other,22
+Connecticut,09,2023,In Hospital,34197
+Connecticut,09,2023,Freestanding Birth Center,76
+Connecticut,09,2023,Residence,257
+Connecticut,09,2023,Other,27
+Connecticut,09,2024,In Hospital,34225
+Connecticut,09,2024,Freestanding Birth Center,88
+Connecticut,09,2024,Residence,256
+Connecticut,09,2024,Other,24
+Delaware,10,2007,In Hospital,12018
+Delaware,10,2007,Freestanding Birth Center,88
+Delaware,10,2007,Residence,34
+Delaware,10,2007,Other,30
+Delaware,10,2008,In Hospital,11901
+Delaware,10,2008,Freestanding Birth Center,123
+Delaware,10,2008,Residence,24
+Delaware,10,2008,Other,42
+Delaware,10,2009,In Hospital,11367
+Delaware,10,2009,Freestanding Birth Center,104
+Delaware,10,2009,Residence,49
+Delaware,10,2009,Other,39
+Delaware,10,2010,In Hospital,11173
+Delaware,10,2010,Freestanding Birth Center,113
+Delaware,10,2010,Residence,76
+Delaware,10,2011,In Hospital,11035
+Delaware,10,2011,Freestanding Birth Center,134
+Delaware,10,2011,Residence,65
+Delaware,10,2011,Other,23
+Delaware,10,2012,In Hospital,10800
+Delaware,10,2012,Freestanding Birth Center,145
+Delaware,10,2012,Residence,67
+Delaware,10,2012,Other,11
+Delaware,10,2013,In Hospital,10598
+Delaware,10,2013,Freestanding Birth Center,143
+Delaware,10,2013,Residence,78
+Delaware,10,2013,Other,12
+Delaware,10,2014,In Hospital,10737
+Delaware,10,2014,Freestanding Birth Center,153
+Delaware,10,2014,Residence,67
+Delaware,10,2014,Other,15
+Delaware,10,2015,In Hospital,10962
+Delaware,10,2015,Freestanding Birth Center,136
+Delaware,10,2015,Residence,55
+Delaware,10,2015,Other,12
+Delaware,10,2016,In Hospital,10753
+Delaware,10,2016,Freestanding Birth Center,166
+Delaware,10,2016,Residence,62
+Delaware,10,2016,Other,11
+Delaware,10,2017,In Hospital,10620
+Delaware,10,2017,Freestanding Birth Center,140
+Delaware,10,2017,Residence,83
+Delaware,10,2017,Other,11
+Delaware,10,2018,In Hospital,10401
+Delaware,10,2018,Freestanding Birth Center,135
+Delaware,10,2018,Residence,78
+Delaware,10,2019,In Hospital,10304
+Delaware,10,2019,Freestanding Birth Center,184
+Delaware,10,2019,Residence,66
+Delaware,10,2020,In Hospital,10115
+Delaware,10,2020,Freestanding Birth Center,175
+Delaware,10,2020,Residence,98
+Delaware,10,2021,In Hospital,10203
+Delaware,10,2021,Freestanding Birth Center,173
+Delaware,10,2021,Residence,105
+Delaware,10,2022,In Hospital,10506
+Delaware,10,2022,Freestanding Birth Center,185
+Delaware,10,2022,Residence,121
+Delaware,10,2023,In Hospital,10113
+Delaware,10,2023,Freestanding Birth Center,178
+Delaware,10,2023,Residence,124
+Delaware,10,2024,In Hospital,10225
+Delaware,10,2024,Freestanding Birth Center,201
+Delaware,10,2024,Residence,124
+District of Columbia,11,2007,In Hospital,8733
+District of Columbia,11,2007,Freestanding Birth Center,62
+District of Columbia,11,2007,Residence,52
+District of Columbia,11,2007,Other,17
+District of Columbia,11,2008,In Hospital,9002
+District of Columbia,11,2008,Freestanding Birth Center,69
+District of Columbia,11,2008,Residence,53
+District of Columbia,11,2009,In Hospital,8899
+District of Columbia,11,2009,Freestanding Birth Center,77
+District of Columbia,11,2009,Residence,18
+District of Columbia,11,2009,Other,46
+District of Columbia,11,2010,In Hospital,8997
+District of Columbia,11,2010,Freestanding Birth Center,86
+District of Columbia,11,2010,Residence,36
+District of Columbia,11,2010,Other,45
+District of Columbia,11,2011,In Hospital,9139
+District of Columbia,11,2011,Freestanding Birth Center,75
+District of Columbia,11,2011,Residence,35
+District of Columbia,11,2011,Other,45
+District of Columbia,11,2012,In Hospital,9265
+District of Columbia,11,2012,Freestanding Birth Center,63
+District of Columbia,11,2012,Residence,29
+District of Columbia,11,2012,Other,42
+District of Columbia,11,2013,In Hospital,9170
+District of Columbia,11,2013,Freestanding Birth Center,57
+District of Columbia,11,2013,Residence,30
+District of Columbia,11,2013,Other,31
+District of Columbia,11,2014,In Hospital,9416
+District of Columbia,11,2014,Freestanding Birth Center,32
+District of Columbia,11,2014,Residence,13
+District of Columbia,11,2014,Other,48
+District of Columbia,11,2015,In Hospital,9496
+District of Columbia,11,2015,Freestanding Birth Center,18
+District of Columbia,11,2015,Residence,24
+District of Columbia,11,2015,Other,40
+District of Columbia,11,2016,In Hospital,9766
+District of Columbia,11,2016,Freestanding Birth Center,21
+District of Columbia,11,2016,Residence,18
+District of Columbia,11,2016,Other,53
+District of Columbia,11,2017,In Hospital,9460
+District of Columbia,11,2017,Freestanding Birth Center,24
+District of Columbia,11,2017,Residence,56
+District of Columbia,11,2017,Other,10
+District of Columbia,11,2017,Unknown or Not Stated,10
+District of Columbia,11,2018,In Hospital,9144
+District of Columbia,11,2018,Freestanding Birth Center,21
+District of Columbia,11,2018,Residence,41
+District of Columbia,11,2019,In Hospital,8967
+District of Columbia,11,2019,Freestanding Birth Center,27
+District of Columbia,11,2019,Residence,72
+District of Columbia,11,2019,Other,13
+District of Columbia,11,2020,In Hospital,8745
+District of Columbia,11,2020,Freestanding Birth Center,27
+District of Columbia,11,2020,Residence,91
+District of Columbia,11,2020,Other,10
+District of Columbia,11,2021,In Hospital,8538
+District of Columbia,11,2021,Freestanding Birth Center,18
+District of Columbia,11,2021,Residence,85
+District of Columbia,11,2021,Other,17
+District of Columbia,11,2022,In Hospital,7969
+District of Columbia,11,2022,Freestanding Birth Center,21
+District of Columbia,11,2022,Residence,80
+District of Columbia,11,2023,In Hospital,7776
+District of Columbia,11,2023,Freestanding Birth Center,39
+District of Columbia,11,2023,Residence,77
+District of Columbia,11,2024,In Hospital,7545
+District of Columbia,11,2024,Freestanding Birth Center,24
+District of Columbia,11,2024,Residence,46
+Florida,12,2007,In Hospital,236503
+Florida,12,2007,Freestanding Birth Center,1344
+Florida,12,2007,Residence,1083
+Florida,12,2007,Other,211
+Florida,12,2007,Unknown or Not Stated,16
+Florida,12,2008,In Hospital,228627
+Florida,12,2008,Freestanding Birth Center,1500
+Florida,12,2008,Residence,1153
+Florida,12,2008,Other,150
+Florida,12,2008,Unknown or Not Stated,12
+Florida,12,2009,In Hospital,218651
+Florida,12,2009,Freestanding Birth Center,1383
+Florida,12,2009,Residence,1187
+Florida,12,2009,Other,155
+Florida,12,2009,Unknown or Not Stated,12
+Florida,12,2010,In Hospital,211774
+Florida,12,2010,Freestanding Birth Center,1382
+Florida,12,2010,Residence,1304
+Florida,12,2010,Other,122
+Florida,12,2011,In Hospital,210323
+Florida,12,2011,Freestanding Birth Center,1480
+Florida,12,2011,Residence,1474
+Florida,12,2011,Other,127
+Florida,12,2012,In Hospital,209779
+Florida,12,2012,Freestanding Birth Center,1606
+Florida,12,2012,Residence,1619
+Florida,12,2012,Other,132
+Florida,12,2013,In Hospital,211754
+Florida,12,2013,Freestanding Birth Center,1752
+Florida,12,2013,Residence,1734
+Florida,12,2013,Other,154
+Florida,12,2014,In Hospital,216171
+Florida,12,2014,Freestanding Birth Center,1747
+Florida,12,2014,Residence,1891
+Florida,12,2014,Other,170
+Florida,12,2015,In Hospital,220304
+Florida,12,2015,Freestanding Birth Center,1806
+Florida,12,2015,Residence,1967
+Florida,12,2015,Other,185
+Florida,12,2016,In Hospital,221044
+Florida,12,2016,Freestanding Birth Center,1720
+Florida,12,2016,Residence,2052
+Florida,12,2016,Other,196
+Florida,12,2017,In Hospital,219587
+Florida,12,2017,Freestanding Birth Center,1820
+Florida,12,2017,Residence,2020
+Florida,12,2017,Other,198
+Florida,12,2018,In Hospital,217526
+Florida,12,2018,Freestanding Birth Center,1725
+Florida,12,2018,Residence,2081
+Florida,12,2018,Other,203
+Florida,12,2019,In Hospital,216112
+Florida,12,2019,Freestanding Birth Center,1629
+Florida,12,2019,Residence,2052
+Florida,12,2019,Other,200
+Florida,12,2020,In Hospital,205381
+Florida,12,2020,Freestanding Birth Center,1598
+Florida,12,2020,Clinic/Doctor's Office,11
+Florida,12,2020,Residence,2431
+Florida,12,2020,Other,241
+Florida,12,2021,In Hospital,211493
+Florida,12,2021,Freestanding Birth Center,1745
+Florida,12,2021,Residence,2714
+Florida,12,2021,Other,297
+Florida,12,2022,In Hospital,219377
+Florida,12,2022,Freestanding Birth Center,1711
+Florida,12,2022,Clinic/Doctor's Office,12
+Florida,12,2022,Residence,2978
+Florida,12,2022,Other,352
+Florida,12,2023,In Hospital,216662
+Florida,12,2023,Freestanding Birth Center,1528
+Florida,12,2023,Clinic/Doctor's Office,23
+Florida,12,2023,Residence,2833
+Florida,12,2023,Other,358
+Florida,12,2024,In Hospital,219574
+Florida,12,2024,Freestanding Birth Center,1363
+Florida,12,2024,Clinic/Doctor's Office,16
+Florida,12,2024,Residence,3110
+Florida,12,2024,Other,174
+Florida,12,2024,Unknown or Not Stated,152
+Georgia,13,2007,In Hospital,150553
+Georgia,13,2007,Freestanding Birth Center,98
+Georgia,13,2007,Residence,264
+Georgia,13,2007,Other,204
+Georgia,13,2008,In Hospital,145867
+Georgia,13,2008,Freestanding Birth Center,127
+Georgia,13,2008,Residence,524
+Georgia,13,2008,Other,70
+Georgia,13,2009,In Hospital,140676
+Georgia,13,2009,Freestanding Birth Center,145
+Georgia,13,2009,Residence,451
+Georgia,13,2009,Other,100
+Georgia,13,2010,In Hospital,133234
+Georgia,13,2010,Freestanding Birth Center,120
+Georgia,13,2010,Residence,497
+Georgia,13,2010,Other,91
+Georgia,13,2011,In Hospital,131672
+Georgia,13,2011,Freestanding Birth Center,151
+Georgia,13,2011,Residence,520
+Georgia,13,2011,Other,63
+Georgia,13,2012,In Hospital,129440
+Georgia,13,2012,Freestanding Birth Center,170
+Georgia,13,2012,Residence,592
+Georgia,13,2012,Other,74
+Georgia,13,2013,In Hospital,127857
+Georgia,13,2013,Freestanding Birth Center,159
+Georgia,13,2013,Residence,663
+Georgia,13,2013,Other,65
+Georgia,13,2014,In Hospital,130025
+Georgia,13,2014,Freestanding Birth Center,187
+Georgia,13,2014,Residence,662
+Georgia,13,2014,Other,32
+Georgia,13,2014,Unknown or Not Stated,39
+Georgia,13,2015,In Hospital,130407
+Georgia,13,2015,Freestanding Birth Center,198
+Georgia,13,2015,Residence,737
+Georgia,13,2015,Unknown or Not Stated,58
+Georgia,13,2016,In Hospital,129019
+Georgia,13,2016,Freestanding Birth Center,206
+Georgia,13,2016,Residence,765
+Georgia,13,2016,Unknown or Not Stated,47
+Georgia,13,2017,In Hospital,128061
+Georgia,13,2017,Freestanding Birth Center,307
+Georgia,13,2017,Residence,822
+Georgia,13,2017,Unknown or Not Stated,49
+Georgia,13,2018,In Hospital,124973
+Georgia,13,2018,Freestanding Birth Center,359
+Georgia,13,2018,Residence,792
+Georgia,13,2018,Unknown or Not Stated,42
+Georgia,13,2019,In Hospital,125133
+Georgia,13,2019,Freestanding Birth Center,447
+Georgia,13,2019,Residence,744
+Georgia,13,2019,Unknown or Not Stated,43
+Georgia,13,2020,In Hospital,121085
+Georgia,13,2020,Freestanding Birth Center,407
+Georgia,13,2020,Residence,930
+Georgia,13,2020,Unknown or Not Stated,39
+Georgia,13,2021,In Hospital,122279
+Georgia,13,2021,Freestanding Birth Center,485
+Georgia,13,2021,Residence,1245
+Georgia,13,2021,Other,19
+Georgia,13,2021,Unknown or Not Stated,43
+Georgia,13,2022,In Hospital,124298
+Georgia,13,2022,Freestanding Birth Center,418
+Georgia,13,2022,Residence,1341
+Georgia,13,2022,Other,26
+Georgia,13,2022,Unknown or Not Stated,47
+Georgia,13,2023,In Hospital,123297
+Georgia,13,2023,Freestanding Birth Center,393
+Georgia,13,2023,Residence,1360
+Georgia,13,2023,Other,16
+Georgia,13,2023,Unknown or Not Stated,54
+Georgia,13,2024,In Hospital,124576
+Georgia,13,2024,Freestanding Birth Center,367
+Georgia,13,2024,Residence,1453
+Georgia,13,2024,Unknown or Not Stated,38
+Hawaii,15,2007,In Hospital,18900
+Hawaii,15,2007,Residence,201
+Hawaii,15,2007,Other,28
+Hawaii,15,2008,In Hospital,19207
+Hawaii,15,2008,Residence,240
+Hawaii,15,2008,Other,34
+Hawaii,15,2009,In Hospital,18614
+Hawaii,15,2009,Residence,252
+Hawaii,15,2009,Other,20
+Hawaii,15,2010,In Hospital,18683
+Hawaii,15,2010,Residence,283
+Hawaii,15,2010,Other,21
+Hawaii,15,2011,In Hospital,18628
+Hawaii,15,2011,Residence,303
+Hawaii,15,2011,Other,24
+Hawaii,15,2012,In Hospital,18605
+Hawaii,15,2012,Residence,339
+Hawaii,15,2012,Other,35
+Hawaii,15,2013,In Hospital,18625
+Hawaii,15,2013,Residence,316
+Hawaii,15,2013,Other,43
+Hawaii,15,2014,In Hospital,18177
+Hawaii,15,2014,Residence,323
+Hawaii,15,2014,Other,43
+Hawaii,15,2015,In Hospital,18035
+Hawaii,15,2015,Residence,300
+Hawaii,15,2015,Other,43
+Hawaii,15,2015,Unknown or Not Stated,27
+Hawaii,15,2016,In Hospital,17688
+Hawaii,15,2016,Residence,249
+Hawaii,15,2016,Other,53
+Hawaii,15,2016,Unknown or Not Stated,66
+Hawaii,15,2017,In Hospital,17146
+Hawaii,15,2017,Residence,318
+Hawaii,15,2017,Other,46
+Hawaii,15,2018,In Hospital,16617
+Hawaii,15,2018,Residence,256
+Hawaii,15,2018,Other,28
+Hawaii,15,2018,Unknown or Not Stated,69
+Hawaii,15,2019,In Hospital,16442
+Hawaii,15,2019,Residence,319
+Hawaii,15,2019,Other,33
+Hawaii,15,2020,In Hospital,15364
+Hawaii,15,2020,Residence,383
+Hawaii,15,2020,Other,36
+Hawaii,15,2021,In Hospital,15085
+Hawaii,15,2021,Residence,512
+Hawaii,15,2021,Other,18
+Hawaii,15,2022,In Hospital,15007
+Hawaii,15,2022,Residence,490
+Hawaii,15,2022,Other,33
+Hawaii,15,2023,In Hospital,14269
+Hawaii,15,2023,Residence,510
+Hawaii,15,2023,Other,24
+Hawaii,15,2024,In Hospital,14437
+Hawaii,15,2024,Residence,443
+Hawaii,15,2024,Other,36
+Idaho,16,2007,In Hospital,24247
+Idaho,16,2007,Freestanding Birth Center,387
+Idaho,16,2007,Residence,380
+Idaho,16,2008,In Hospital,24338
+Idaho,16,2008,Freestanding Birth Center,434
+Idaho,16,2008,Residence,374
+Idaho,16,2009,In Hospital,22871
+Idaho,16,2009,Freestanding Birth Center,460
+Idaho,16,2009,Residence,401
+Idaho,16,2010,In Hospital,22280
+Idaho,16,2010,Freestanding Birth Center,476
+Idaho,16,2010,Residence,440
+Idaho,16,2011,In Hospital,21452
+Idaho,16,2011,Freestanding Birth Center,475
+Idaho,16,2011,Residence,376
+Idaho,16,2012,In Hospital,22172
+Idaho,16,2012,Freestanding Birth Center,326
+Idaho,16,2012,Residence,457
+Idaho,16,2013,In Hospital,21616
+Idaho,16,2013,Freestanding Birth Center,297
+Idaho,16,2013,Residence,447
+Idaho,16,2013,Other,15
+Idaho,16,2014,In Hospital,22092
+Idaho,16,2014,Freestanding Birth Center,275
+Idaho,16,2014,Residence,488
+Idaho,16,2014,Other,19
+Idaho,16,2015,In Hospital,22027
+Idaho,16,2015,Freestanding Birth Center,287
+Idaho,16,2015,Residence,505
+Idaho,16,2016,In Hospital,21700
+Idaho,16,2016,Freestanding Birth Center,299
+Idaho,16,2016,Residence,467
+Idaho,16,2016,Other,11
+Idaho,16,2017,In Hospital,21344
+Idaho,16,2017,Freestanding Birth Center,319
+Idaho,16,2017,Residence,504
+Idaho,16,2017,Other,12
+Idaho,16,2018,In Hospital,20605
+Idaho,16,2018,Freestanding Birth Center,306
+Idaho,16,2018,Residence,475
+Idaho,16,2018,Other,12
+Idaho,16,2019,In Hospital,20822
+Idaho,16,2019,Freestanding Birth Center,614
+Idaho,16,2019,Residence,619
+Idaho,16,2020,In Hospital,20162
+Idaho,16,2020,Freestanding Birth Center,677
+Idaho,16,2020,Residence,685
+Idaho,16,2021,In Hospital,20787
+Idaho,16,2021,Freestanding Birth Center,831
+Idaho,16,2021,Residence,798
+Idaho,16,2021,Other,10
+Idaho,16,2022,In Hospital,20922
+Idaho,16,2022,Freestanding Birth Center,526
+Idaho,16,2022,Residence,931
+Idaho,16,2022,Other,11
+Idaho,16,2023,In Hospital,20852
+Idaho,16,2023,Freestanding Birth Center,481
+Idaho,16,2023,Residence,1043
+Idaho,16,2023,Other,13
+Idaho,16,2024,In Hospital,21665
+Idaho,16,2024,Freestanding Birth Center,451
+Idaho,16,2024,Residence,1114
+Idaho,16,2024,Other,36
+Illinois,17,2007,In Hospital,180197
+Illinois,17,2007,Residence,592
+Illinois,17,2007,Other,28
+Illinois,17,2007,Unknown or Not Stated,11
+Illinois,17,2008,In Hospital,176079
+Illinois,17,2008,Residence,661
+Illinois,17,2008,Other,25
+Illinois,17,2008,Unknown or Not Stated,18
+Illinois,17,2009,In Hospital,170479
+Illinois,17,2009,Freestanding Birth Center,12
+Illinois,17,2009,Residence,624
+Illinois,17,2009,Other,36
+Illinois,17,2009,Unknown or Not Stated,10
+Illinois,17,2010,In Hospital,164358
+Illinois,17,2010,Residence,738
+Illinois,17,2010,Other,61
+Illinois,17,2010,Unknown or Not Stated,36
+Illinois,17,2011,In Hospital,160475
+Illinois,17,2011,Residence,731
+Illinois,17,2011,Other,75
+Illinois,17,2011,Unknown or Not Stated,24
+Illinois,17,2012,In Hospital,158292
+Illinois,17,2012,Residence,757
+Illinois,17,2012,Other,77
+Illinois,17,2012,Unknown or Not Stated,27
+Illinois,17,2013,In Hospital,155937
+Illinois,17,2013,Freestanding Birth Center,19
+Illinois,17,2013,Residence,851
+Illinois,17,2013,Other,83
+Illinois,17,2013,Unknown or Not Stated,39
+Illinois,17,2014,In Hospital,157513
+Illinois,17,2014,Freestanding Birth Center,22
+Illinois,17,2014,Residence,899
+Illinois,17,2014,Other,87
+Illinois,17,2014,Unknown or Not Stated,30
+Illinois,17,2015,In Hospital,157174
+Illinois,17,2015,Freestanding Birth Center,22
+Illinois,17,2015,Residence,815
+Illinois,17,2015,Other,102
+Illinois,17,2016,In Hospital,153482
+Illinois,17,2016,Freestanding Birth Center,16
+Illinois,17,2016,Residence,840
+Illinois,17,2016,Other,94
+Illinois,17,2017,In Hospital,148469
+Illinois,17,2017,Freestanding Birth Center,19
+Illinois,17,2017,Residence,784
+Illinois,17,2017,Other,99
+Illinois,17,2017,Unknown or Not Stated,14
+Illinois,17,2018,In Hospital,143825
+Illinois,17,2018,Freestanding Birth Center,24
+Illinois,17,2018,Residence,855
+Illinois,17,2018,Other,108
+Illinois,17,2019,In Hospital,139203
+Illinois,17,2019,Freestanding Birth Center,16
+Illinois,17,2019,Residence,819
+Illinois,17,2019,Other,87
+Illinois,17,2020,In Hospital,132203
+Illinois,17,2020,Freestanding Birth Center,21
+Illinois,17,2020,Residence,998
+Illinois,17,2020,Other,69
+Illinois,17,2021,In Hospital,130692
+Illinois,17,2021,Freestanding Birth Center,247
+Illinois,17,2021,Residence,1155
+Illinois,17,2021,Other,92
+Illinois,17,2022,In Hospital,126691
+Illinois,17,2022,Freestanding Birth Center,370
+Illinois,17,2022,Residence,1181
+Illinois,17,2022,Other,106
+Illinois,17,2023,In Hospital,123106
+Illinois,17,2023,Freestanding Birth Center,445
+Illinois,17,2023,Residence,1162
+Illinois,17,2023,Other,102
+Illinois,17,2024,In Hospital,123891
+Illinois,17,2024,Freestanding Birth Center,494
+Illinois,17,2024,Residence,1233
+Illinois,17,2024,Other,111
+Indiana,18,2007,In Hospital,88271
+Indiana,18,2007,Freestanding Birth Center,415
+Indiana,18,2007,Residence,1148
+Indiana,18,2007,Other,13
+Indiana,18,2007,Unknown or Not Stated,15
+Indiana,18,2008,In Hospital,87108
+Indiana,18,2008,Freestanding Birth Center,391
+Indiana,18,2008,Clinic/Doctor's Office,38
+Indiana,18,2008,Residence,1189
+Indiana,18,2008,Unknown or Not Stated,10
+Indiana,18,2009,In Hospital,85032
+Indiana,18,2009,Freestanding Birth Center,439
+Indiana,18,2009,Residence,1198
+Indiana,18,2010,In Hospital,82145
+Indiana,18,2010,Freestanding Birth Center,473
+Indiana,18,2010,Residence,1306
+Indiana,18,2010,Other,13
+Indiana,18,2011,In Hospital,81850
+Indiana,18,2011,Freestanding Birth Center,474
+Indiana,18,2011,Residence,1365
+Indiana,18,2012,In Hospital,81382
+Indiana,18,2012,Freestanding Birth Center,529
+Indiana,18,2012,Residence,1307
+Indiana,18,2013,In Hospital,81172
+Indiana,18,2013,Freestanding Birth Center,543
+Indiana,18,2013,Residence,1376
+Indiana,18,2014,In Hospital,82118
+Indiana,18,2014,Freestanding Birth Center,555
+Indiana,18,2014,Residence,1385
+Indiana,18,2014,Other,14
+Indiana,18,2015,In Hospital,81963
+Indiana,18,2015,Freestanding Birth Center,587
+Indiana,18,2015,Residence,1481
+Indiana,18,2016,In Hospital,80989
+Indiana,18,2016,Freestanding Birth Center,720
+Indiana,18,2016,Residence,1367
+Indiana,18,2017,In Hospital,80067
+Indiana,18,2017,Freestanding Birth Center,732
+Indiana,18,2017,Residence,1354
+Indiana,18,2017,Other,10
+Indiana,18,2018,In Hospital,79506
+Indiana,18,2018,Freestanding Birth Center,858
+Indiana,18,2018,Residence,1255
+Indiana,18,2018,Other,16
+Indiana,18,2019,In Hospital,78743
+Indiana,18,2019,Freestanding Birth Center,885
+Indiana,18,2019,Residence,1160
+Indiana,18,2019,Other,62
+Indiana,18,2020,In Hospital,76111
+Indiana,18,2020,Freestanding Birth Center,982
+Indiana,18,2020,Residence,1322
+Indiana,18,2020,Other,189
+Indiana,18,2020,Unknown or Not Stated,10
+Indiana,18,2021,In Hospital,77184
+Indiana,18,2021,Freestanding Birth Center,1005
+Indiana,18,2021,Residence,1559
+Indiana,18,2021,Other,195
+Indiana,18,2022,In Hospital,76928
+Indiana,18,2022,Freestanding Birth Center,1131
+Indiana,18,2022,Residence,1469
+Indiana,18,2022,Other,120
+Indiana,18,2023,In Hospital,76044
+Indiana,18,2023,Freestanding Birth Center,1115
+Indiana,18,2023,Residence,1680
+Indiana,18,2023,Other,151
+Indiana,18,2023,Unknown or Not Stated,10
+Indiana,18,2024,In Hospital,77288
+Indiana,18,2024,Freestanding Birth Center,1145
+Indiana,18,2024,Residence,1678
+Indiana,18,2024,Other,143
+Iowa,19,2007,In Hospital,40548
+Iowa,19,2007,Freestanding Birth Center,20
+Iowa,19,2007,Residence,314
+Iowa,19,2008,In Hospital,39808
+Iowa,19,2008,Residence,408
+Iowa,19,2009,In Hospital,39251
+Iowa,19,2009,Residence,440
+Iowa,19,2010,In Hospital,38228
+Iowa,19,2010,Residence,441
+Iowa,19,2010,Other,47
+Iowa,19,2011,In Hospital,37718
+Iowa,19,2011,Residence,448
+Iowa,19,2011,Other,45
+Iowa,19,2012,In Hospital,38168
+Iowa,19,2012,Freestanding Birth Center,15
+Iowa,19,2012,Residence,461
+Iowa,19,2012,Other,55
+Iowa,19,2013,In Hospital,38564
+Iowa,19,2013,Freestanding Birth Center,10
+Iowa,19,2013,Residence,472
+Iowa,19,2013,Other,47
+Iowa,19,2014,In Hospital,39075
+Iowa,19,2014,Residence,542
+Iowa,19,2014,Other,59
+Iowa,19,2015,In Hospital,38960
+Iowa,19,2015,Freestanding Birth Center,18
+Iowa,19,2015,Residence,444
+Iowa,19,2015,Other,59
+Iowa,19,2016,In Hospital,38749
+Iowa,19,2016,Freestanding Birth Center,10
+Iowa,19,2016,Residence,565
+Iowa,19,2016,Other,79
+Iowa,19,2017,In Hospital,37884
+Iowa,19,2017,Freestanding Birth Center,10
+Iowa,19,2017,Residence,489
+Iowa,19,2017,Other,47
+Iowa,19,2018,In Hospital,37179
+Iowa,19,2018,Freestanding Birth Center,19
+Iowa,19,2018,Residence,557
+Iowa,19,2018,Other,30
+Iowa,19,2019,In Hospital,37087
+Iowa,19,2019,Freestanding Birth Center,12
+Iowa,19,2019,Residence,507
+Iowa,19,2019,Other,43
+Iowa,19,2020,In Hospital,35467
+Iowa,19,2020,Freestanding Birth Center,24
+Iowa,19,2020,Residence,578
+Iowa,19,2020,Other,40
+Iowa,19,2021,In Hospital,36101
+Iowa,19,2021,Freestanding Birth Center,32
+Iowa,19,2021,Residence,683
+Iowa,19,2021,Other,14
+Iowa,19,2022,In Hospital,35733
+Iowa,19,2022,Freestanding Birth Center,33
+Iowa,19,2022,Residence,724
+Iowa,19,2022,Other,15
+Iowa,19,2023,In Hospital,35130
+Iowa,19,2023,Freestanding Birth Center,44
+Iowa,19,2023,Residence,862
+Iowa,19,2023,Other,16
+Iowa,19,2024,In Hospital,35537
+Iowa,19,2024,Freestanding Birth Center,29
+Iowa,19,2024,Residence,858
+Iowa,19,2024,Other,10
+Kansas,20,2007,In Hospital,41489
+Kansas,20,2007,Freestanding Birth Center,223
+Kansas,20,2007,Clinic/Doctor's Office,27
+Kansas,20,2007,Residence,252
+Kansas,20,2007,Other,13
+Kansas,20,2008,In Hospital,41341
+Kansas,20,2008,Freestanding Birth Center,222
+Kansas,20,2008,Clinic/Doctor's Office,24
+Kansas,20,2008,Residence,243
+Kansas,20,2009,In Hospital,40812
+Kansas,20,2009,Freestanding Birth Center,252
+Kansas,20,2009,Residence,320
+Kansas,20,2010,In Hospital,40062
+Kansas,20,2010,Freestanding Birth Center,236
+Kansas,20,2010,Residence,341
+Kansas,20,2011,In Hospital,39067
+Kansas,20,2011,Freestanding Birth Center,211
+Kansas,20,2011,Residence,353
+Kansas,20,2011,Other,11
+Kansas,20,2012,In Hospital,39598
+Kansas,20,2012,Freestanding Birth Center,311
+Kansas,20,2012,Residence,421
+Kansas,20,2012,Other,10
+Kansas,20,2013,In Hospital,37969
+Kansas,20,2013,Freestanding Birth Center,466
+Kansas,20,2013,Residence,394
+Kansas,20,2014,In Hospital,38427
+Kansas,20,2014,Freestanding Birth Center,356
+Kansas,20,2014,Residence,430
+Kansas,20,2015,In Hospital,38367
+Kansas,20,2015,Freestanding Birth Center,320
+Kansas,20,2015,Residence,453
+Kansas,20,2015,Other,12
+Kansas,20,2016,In Hospital,37289
+Kansas,20,2016,Freestanding Birth Center,283
+Kansas,20,2016,Residence,467
+Kansas,20,2016,Other,14
+Kansas,20,2017,In Hospital,35806
+Kansas,20,2017,Freestanding Birth Center,236
+Kansas,20,2017,Clinic/Doctor's Office,13
+Kansas,20,2017,Residence,449
+Kansas,20,2017,Other,15
+Kansas,20,2018,In Hospital,35499
+Kansas,20,2018,Freestanding Birth Center,209
+Kansas,20,2018,Clinic/Doctor's Office,12
+Kansas,20,2018,Residence,530
+Kansas,20,2018,Other,11
+Kansas,20,2019,In Hospital,34643
+Kansas,20,2019,Freestanding Birth Center,247
+Kansas,20,2019,Residence,494
+Kansas,20,2019,Other,11
+Kansas,20,2020,In Hospital,33512
+Kansas,20,2020,Freestanding Birth Center,296
+Kansas,20,2020,Residence,545
+Kansas,20,2020,Other,21
+Kansas,20,2021,In Hospital,33729
+Kansas,20,2021,Freestanding Birth Center,306
+Kansas,20,2021,Residence,642
+Kansas,20,2021,Other,28
+Kansas,20,2022,In Hospital,33370
+Kansas,20,2022,Freestanding Birth Center,317
+Kansas,20,2022,Residence,678
+Kansas,20,2022,Other,30
+Kansas,20,2023,In Hospital,33023
+Kansas,20,2023,Freestanding Birth Center,276
+Kansas,20,2023,Residence,678
+Kansas,20,2023,Other,86
+Kansas,20,2024,In Hospital,32862
+Kansas,20,2024,Freestanding Birth Center,270
+Kansas,20,2024,Residence,796
+Kansas,20,2024,Other,56
+Kentucky,21,2007,In Hospital,58859
+Kentucky,21,2007,Freestanding Birth Center,12
+Kentucky,21,2007,Clinic/Doctor's Office,11
+Kentucky,21,2007,Residence,416
+Kentucky,21,2007,Other,33
+Kentucky,21,2007,Unknown or Not Stated,37
+Kentucky,21,2008,In Hospital,57832
+Kentucky,21,2008,Residence,479
+Kentucky,21,2008,Other,47
+Kentucky,21,2009,In Hospital,56970
+Kentucky,21,2009,Freestanding Birth Center,17
+Kentucky,21,2009,Residence,519
+Kentucky,21,2009,Other,38
+Kentucky,21,2010,In Hospital,55220
+Kentucky,21,2010,Freestanding Birth Center,12
+Kentucky,21,2010,Residence,519
+Kentucky,21,2010,Other,27
+Kentucky,21,2011,In Hospital,54768
+Kentucky,21,2011,Freestanding Birth Center,14
+Kentucky,21,2011,Residence,547
+Kentucky,21,2011,Other,37
+Kentucky,21,2012,In Hospital,55060
+Kentucky,21,2012,Freestanding Birth Center,31
+Kentucky,21,2012,Residence,612
+Kentucky,21,2012,Other,51
+Kentucky,21,2013,In Hospital,54974
+Kentucky,21,2013,Freestanding Birth Center,26
+Kentucky,21,2013,Residence,629
+Kentucky,21,2013,Other,51
+Kentucky,21,2014,In Hospital,55435
+Kentucky,21,2014,Freestanding Birth Center,26
+Kentucky,21,2014,Residence,649
+Kentucky,21,2014,Other,54
+Kentucky,21,2015,In Hospital,55160
+Kentucky,21,2015,Freestanding Birth Center,24
+Kentucky,21,2015,Residence,685
+Kentucky,21,2015,Other,95
+Kentucky,21,2016,In Hospital,54599
+Kentucky,21,2016,Freestanding Birth Center,27
+Kentucky,21,2016,Residence,716
+Kentucky,21,2016,Other,101
+Kentucky,21,2017,In Hospital,53978
+Kentucky,21,2017,Freestanding Birth Center,27
+Kentucky,21,2017,Residence,641
+Kentucky,21,2017,Other,97
+Kentucky,21,2018,In Hospital,53036
+Kentucky,21,2018,Freestanding Birth Center,35
+Kentucky,21,2018,Residence,721
+Kentucky,21,2018,Other,122
+Kentucky,21,2019,In Hospital,52199
+Kentucky,21,2019,Freestanding Birth Center,79
+Kentucky,21,2019,Residence,680
+Kentucky,21,2019,Other,107
+Kentucky,21,2020,In Hospital,50608
+Kentucky,21,2020,Freestanding Birth Center,115
+Kentucky,21,2020,Residence,802
+Kentucky,21,2020,Other,135
+Kentucky,21,2021,In Hospital,50919
+Kentucky,21,2021,Freestanding Birth Center,138
+Kentucky,21,2021,Residence,1013
+Kentucky,21,2021,Other,136
+Kentucky,21,2022,In Hospital,51002
+Kentucky,21,2022,Freestanding Birth Center,172
+Kentucky,21,2022,Residence,1020
+Kentucky,21,2022,Other,107
+Kentucky,21,2023,In Hospital,50557
+Kentucky,21,2023,Freestanding Birth Center,168
+Kentucky,21,2023,Residence,1116
+Kentucky,21,2023,Other,134
+Kentucky,21,2024,In Hospital,51497
+Kentucky,21,2024,Freestanding Birth Center,156
+Kentucky,21,2024,Residence,1169
+Kentucky,21,2024,Other,89
+Louisiana,22,2007,In Hospital,66098
+Louisiana,22,2007,Freestanding Birth Center,19
+Louisiana,22,2007,Residence,154
+Louisiana,22,2007,Other,27
+Louisiana,22,2008,In Hospital,65068
+Louisiana,22,2008,Freestanding Birth Center,28
+Louisiana,22,2008,Residence,128
+Louisiana,22,2008,Other,44
+Louisiana,22,2009,In Hospital,64787
+Louisiana,22,2009,Freestanding Birth Center,15
+Louisiana,22,2009,Residence,139
+Louisiana,22,2009,Other,31
+Louisiana,22,2010,In Hospital,62184
+Louisiana,22,2010,Freestanding Birth Center,31
+Louisiana,22,2010,Residence,132
+Louisiana,22,2010,Other,30
+Louisiana,22,2011,In Hospital,61690
+Louisiana,22,2011,Freestanding Birth Center,63
+Louisiana,22,2011,Residence,121
+Louisiana,22,2011,Other,14
+Louisiana,22,2012,In Hospital,62388
+Louisiana,22,2012,Freestanding Birth Center,74
+Louisiana,22,2012,Residence,133
+Louisiana,22,2012,Other,46
+Louisiana,22,2013,In Hospital,62912
+Louisiana,22,2013,Freestanding Birth Center,76
+Louisiana,22,2013,Residence,177
+Louisiana,22,2013,Other,35
+Louisiana,22,2014,In Hospital,64211
+Louisiana,22,2014,Freestanding Birth Center,76
+Louisiana,22,2014,Residence,162
+Louisiana,22,2014,Other,45
+Louisiana,22,2015,In Hospital,64385
+Louisiana,22,2015,Freestanding Birth Center,76
+Louisiana,22,2015,Residence,202
+Louisiana,22,2015,Other,28
+Louisiana,22,2016,In Hospital,62881
+Louisiana,22,2016,Freestanding Birth Center,74
+Louisiana,22,2016,Residence,188
+Louisiana,22,2016,Other,33
+Louisiana,22,2017,In Hospital,60735
+Louisiana,22,2017,Freestanding Birth Center,51
+Louisiana,22,2017,Residence,173
+Louisiana,22,2017,Other,59
+Louisiana,22,2018,In Hospital,59369
+Louisiana,22,2018,Freestanding Birth Center,54
+Louisiana,22,2018,Residence,164
+Louisiana,22,2018,Other,27
+Louisiana,22,2019,In Hospital,58683
+Louisiana,22,2019,Freestanding Birth Center,51
+Louisiana,22,2019,Residence,153
+Louisiana,22,2019,Other,52
+Louisiana,22,2020,In Hospital,56997
+Louisiana,22,2020,Freestanding Birth Center,48
+Louisiana,22,2020,Residence,191
+Louisiana,22,2020,Other,90
+Louisiana,22,2021,In Hospital,57101
+Louisiana,22,2021,Freestanding Birth Center,51
+Louisiana,22,2021,Residence,175
+Louisiana,22,2021,Other,109
+Louisiana,22,2022,In Hospital,56115
+Louisiana,22,2022,Freestanding Birth Center,59
+Louisiana,22,2022,Residence,176
+Louisiana,22,2022,Other,128
+Louisiana,22,2023,In Hospital,54581
+Louisiana,22,2023,Freestanding Birth Center,55
+Louisiana,22,2023,Residence,155
+Louisiana,22,2023,Other,136
+Louisiana,22,2024,In Hospital,52929
+Louisiana,22,2024,Freestanding Birth Center,54
+Louisiana,22,2024,Residence,201
+Louisiana,22,2024,Other,119
+Maine,23,2007,In Hospital,13937
+Maine,23,2007,Freestanding Birth Center,35
+Maine,23,2007,Residence,143
+Maine,23,2008,In Hospital,13435
+Maine,23,2008,Freestanding Birth Center,23
+Maine,23,2008,Residence,148
+Maine,23,2009,In Hospital,13283
+Maine,23,2009,Residence,177
+Maine,23,2010,In Hospital,12750
+Maine,23,2010,Residence,214
+Maine,23,2011,In Hospital,12481
+Maine,23,2011,Residence,215
+Maine,23,2012,In Hospital,12583
+Maine,23,2012,Freestanding Birth Center,10
+Maine,23,2012,Residence,203
+Maine,23,2013,In Hospital,12513
+Maine,23,2013,Freestanding Birth Center,15
+Maine,23,2013,Residence,242
+Maine,23,2014,In Hospital,12454
+Maine,23,2014,Freestanding Birth Center,21
+Maine,23,2014,Residence,213
+Maine,23,2014,Other,10
+Maine,23,2015,In Hospital,12323
+Maine,23,2015,Freestanding Birth Center,19
+Maine,23,2015,Residence,254
+Maine,23,2015,Other,10
+Maine,23,2016,In Hospital,12424
+Maine,23,2016,Freestanding Birth Center,12
+Maine,23,2016,Residence,262
+Maine,23,2017,In Hospital,12021
+Maine,23,2017,Freestanding Birth Center,20
+Maine,23,2017,Residence,243
+Maine,23,2017,Other,14
+Maine,23,2018,In Hospital,12029
+Maine,23,2018,Freestanding Birth Center,34
+Maine,23,2018,Residence,228
+Maine,23,2018,Other,20
+Maine,23,2019,In Hospital,11518
+Maine,23,2019,Freestanding Birth Center,30
+Maine,23,2019,Residence,222
+Maine,23,2020,In Hospital,11233
+Maine,23,2020,Freestanding Birth Center,30
+Maine,23,2020,Residence,268
+Maine,23,2021,In Hospital,11641
+Maine,23,2021,Freestanding Birth Center,41
+Maine,23,2021,Residence,313
+Maine,23,2021,Other,10
+Maine,23,2022,In Hospital,11690
+Maine,23,2022,Freestanding Birth Center,64
+Maine,23,2022,Residence,334
+Maine,23,2023,In Hospital,11240
+Maine,23,2023,Freestanding Birth Center,61
+Maine,23,2023,Residence,320
+Maine,23,2024,In Hospital,11188
+Maine,23,2024,Freestanding Birth Center,75
+Maine,23,2024,Residence,330
+Maryland,24,2007,In Hospital,77436
+Maryland,24,2007,Freestanding Birth Center,272
+Maryland,24,2007,Residence,379
+Maryland,24,2008,In Hospital,76631
+Maryland,24,2008,Freestanding Birth Center,269
+Maryland,24,2008,Residence,381
+Maryland,24,2009,In Hospital,74387
+Maryland,24,2009,Freestanding Birth Center,270
+Maryland,24,2009,Residence,390
+Maryland,24,2009,Other,10
+Maryland,24,2010,In Hospital,73040
+Maryland,24,2010,Freestanding Birth Center,292
+Maryland,24,2010,Residence,416
+Maryland,24,2010,Other,49
+Maryland,24,2011,In Hospital,72296
+Maryland,24,2011,Freestanding Birth Center,291
+Maryland,24,2011,Residence,466
+Maryland,24,2011,Other,32
+Maryland,24,2012,In Hospital,72057
+Maryland,24,2012,Freestanding Birth Center,353
+Maryland,24,2012,Residence,400
+Maryland,24,2012,Other,69
+Maryland,24,2013,In Hospital,71154
+Maryland,24,2013,Freestanding Birth Center,369
+Maryland,24,2013,Residence,390
+Maryland,24,2013,Other,37
+Maryland,24,2014,In Hospital,73118
+Maryland,24,2014,Freestanding Birth Center,374
+Maryland,24,2014,Residence,375
+Maryland,24,2014,Other,50
+Maryland,24,2015,In Hospital,72751
+Maryland,24,2015,Freestanding Birth Center,362
+Maryland,24,2015,Residence,428
+Maryland,24,2015,Other,66
+Maryland,24,2016,In Hospital,72272
+Maryland,24,2016,Freestanding Birth Center,329
+Maryland,24,2016,Residence,465
+Maryland,24,2016,Other,68
+Maryland,24,2017,In Hospital,70717
+Maryland,24,2017,Freestanding Birth Center,326
+Maryland,24,2017,Residence,515
+Maryland,24,2017,Other,74
+Maryland,24,2018,In Hospital,70127
+Maryland,24,2018,Freestanding Birth Center,329
+Maryland,24,2018,Residence,521
+Maryland,24,2018,Other,100
+Maryland,24,2019,In Hospital,69214
+Maryland,24,2019,Freestanding Birth Center,342
+Maryland,24,2019,Residence,533
+Maryland,24,2019,Other,83
+Maryland,24,2020,In Hospital,67523
+Maryland,24,2020,Freestanding Birth Center,216
+Maryland,24,2020,Residence,720
+Maryland,24,2020,Other,90
+Maryland,24,2021,In Hospital,67159
+Maryland,24,2021,Freestanding Birth Center,176
+Maryland,24,2021,Residence,856
+Maryland,24,2021,Other,84
+Maryland,24,2022,In Hospital,67682
+Maryland,24,2022,Freestanding Birth Center,110
+Maryland,24,2022,Residence,902
+Maryland,24,2022,Other,82
+Maryland,24,2023,In Hospital,64584
+Maryland,24,2023,Freestanding Birth Center,94
+Maryland,24,2023,Clinic/Doctor's Office,11
+Maryland,24,2023,Residence,815
+Maryland,24,2023,Other,89
+Maryland,24,2024,In Hospital,64753
+Maryland,24,2024,Freestanding Birth Center,78
+Maryland,24,2024,Residence,874
+Maryland,24,2024,Other,81
+Massachusetts,25,2007,In Hospital,77425
+Massachusetts,25,2007,Freestanding Birth Center,215
+Massachusetts,25,2007,Residence,327
+Massachusetts,25,2008,In Hospital,76434
+Massachusetts,25,2008,Freestanding Birth Center,244
+Massachusetts,25,2008,Residence,340
+Massachusetts,25,2009,In Hospital,74456
+Massachusetts,25,2009,Freestanding Birth Center,231
+Massachusetts,25,2009,Residence,323
+Massachusetts,25,2010,In Hospital,72310
+Massachusetts,25,2010,Freestanding Birth Center,239
+Massachusetts,25,2010,Residence,313
+Massachusetts,25,2011,In Hospital,72569
+Massachusetts,25,2011,Freestanding Birth Center,225
+Massachusetts,25,2011,Residence,333
+Massachusetts,25,2011,Other,31
+Massachusetts,25,2012,In Hospital,71777
+Massachusetts,25,2012,Freestanding Birth Center,250
+Massachusetts,25,2012,Residence,365
+Massachusetts,25,2012,Other,45
+Massachusetts,25,2013,In Hospital,71091
+Massachusetts,25,2013,Freestanding Birth Center,269
+Massachusetts,25,2013,Residence,389
+Massachusetts,25,2013,Other,36
+Massachusetts,25,2014,In Hospital,71236
+Massachusetts,25,2014,Freestanding Birth Center,241
+Massachusetts,25,2014,Residence,386
+Massachusetts,25,2014,Other,37
+Massachusetts,25,2015,In Hospital,70839
+Massachusetts,25,2015,Freestanding Birth Center,224
+Massachusetts,25,2015,Residence,392
+Massachusetts,25,2015,Other,33
+Massachusetts,25,2016,In Hospital,70618
+Massachusetts,25,2016,Freestanding Birth Center,215
+Massachusetts,25,2016,Residence,444
+Massachusetts,25,2016,Other,36
+Massachusetts,25,2017,In Hospital,70065
+Massachusetts,25,2017,Freestanding Birth Center,192
+Massachusetts,25,2017,Residence,402
+Massachusetts,25,2017,Other,35
+Massachusetts,25,2018,In Hospital,68530
+Massachusetts,25,2018,Freestanding Birth Center,141
+Massachusetts,25,2018,Residence,379
+Massachusetts,25,2018,Other,56
+Massachusetts,25,2019,In Hospital,68539
+Massachusetts,25,2019,Freestanding Birth Center,132
+Massachusetts,25,2019,Residence,395
+Massachusetts,25,2019,Other,50
+Massachusetts,25,2020,In Hospital,65721
+Massachusetts,25,2020,Freestanding Birth Center,110
+Massachusetts,25,2020,Residence,561
+Massachusetts,25,2020,Other,33
+Massachusetts,25,2021,In Hospital,68376
+Massachusetts,25,2021,Freestanding Birth Center,170
+Massachusetts,25,2021,Residence,548
+Massachusetts,25,2021,Other,41
+Massachusetts,25,2022,In Hospital,67811
+Massachusetts,25,2022,Freestanding Birth Center,140
+Massachusetts,25,2022,Residence,579
+Massachusetts,25,2022,Other,46
+Massachusetts,25,2023,In Hospital,66375
+Massachusetts,25,2023,Freestanding Birth Center,136
+Massachusetts,25,2023,Residence,537
+Massachusetts,25,2023,Other,42
+Massachusetts,25,2024,In Hospital,67448
+Massachusetts,25,2024,Freestanding Birth Center,118
+Massachusetts,25,2024,Residence,557
+Massachusetts,25,2024,Other,54
+Michigan,26,2007,In Hospital,124171
+Michigan,26,2007,Freestanding Birth Center,144
+Michigan,26,2007,Clinic/Doctor's Office,14
+Michigan,26,2007,Residence,882
+Michigan,26,2007,Other,49
+Michigan,26,2008,In Hospital,120124
+Michigan,26,2008,Freestanding Birth Center,147
+Michigan,26,2008,Clinic/Doctor's Office,15
+Michigan,26,2008,Residence,813
+Michigan,26,2008,Other,26
+Michigan,26,2009,In Hospital,116272
+Michigan,26,2009,Freestanding Birth Center,139
+Michigan,26,2009,Residence,847
+Michigan,26,2009,Other,27
+Michigan,26,2010,In Hospital,113572
+Michigan,26,2010,Freestanding Birth Center,114
+Michigan,26,2010,Residence,802
+Michigan,26,2010,Other,35
+Michigan,26,2011,In Hospital,112905
+Michigan,26,2011,Freestanding Birth Center,127
+Michigan,26,2011,Clinic/Doctor's Office,11
+Michigan,26,2011,Residence,924
+Michigan,26,2011,Other,39
+Michigan,26,2012,In Hospital,111877
+Michigan,26,2012,Freestanding Birth Center,141
+Michigan,26,2012,Residence,1036
+Michigan,26,2012,Other,27
+Michigan,26,2013,In Hospital,112342
+Michigan,26,2013,Freestanding Birth Center,72
+Michigan,26,2013,Clinic/Doctor's Office,11
+Michigan,26,2013,Residence,1019
+Michigan,26,2013,Other,45
+Michigan,26,2014,In Hospital,112973
+Michigan,26,2014,Freestanding Birth Center,117
+Michigan,26,2014,Residence,1231
+Michigan,26,2014,Other,51
+Michigan,26,2015,In Hospital,111828
+Michigan,26,2015,Freestanding Birth Center,118
+Michigan,26,2015,Residence,1306
+Michigan,26,2015,Other,56
+Michigan,26,2016,In Hospital,111754
+Michigan,26,2016,Freestanding Birth Center,128
+Michigan,26,2016,Residence,1388
+Michigan,26,2016,Other,35
+Michigan,26,2017,In Hospital,109884
+Michigan,26,2017,Freestanding Birth Center,117
+Michigan,26,2017,Residence,1375
+Michigan,26,2017,Other,46
+Michigan,26,2018,In Hospital,108403
+Michigan,26,2018,Freestanding Birth Center,84
+Michigan,26,2018,Residence,1487
+Michigan,26,2018,Other,53
+Michigan,26,2019,In Hospital,106215
+Michigan,26,2019,Freestanding Birth Center,93
+Michigan,26,2019,Residence,1534
+Michigan,26,2019,Other,44
+Michigan,26,2020,In Hospital,101949
+Michigan,26,2020,Freestanding Birth Center,82
+Michigan,26,2020,Residence,1972
+Michigan,26,2020,Other,64
+Michigan,26,2021,In Hospital,102609
+Michigan,26,2021,Freestanding Birth Center,91
+Michigan,26,2021,Residence,2225
+Michigan,26,2021,Other,52
+Michigan,26,2022,In Hospital,99883
+Michigan,26,2022,Freestanding Birth Center,396
+Michigan,26,2022,Residence,2032
+Michigan,26,2023,In Hospital,96669
+Michigan,26,2023,Freestanding Birth Center,403
+Michigan,26,2023,Residence,2024
+Michigan,26,2023,Other,21
+Michigan,26,2024,In Hospital,97096
+Michigan,26,2024,Freestanding Birth Center,404
+Michigan,26,2024,Residence,1983
+Michigan,26,2024,Other,41
+Minnesota,27,2007,In Hospital,73201
+Minnesota,27,2007,Residence,497
+Minnesota,27,2007,Other,35
+Minnesota,27,2008,In Hospital,71872
+Minnesota,27,2008,Residence,504
+Minnesota,27,2008,Other,39
+Minnesota,27,2009,In Hospital,69990
+Minnesota,27,2009,Residence,600
+Minnesota,27,2009,Other,48
+Minnesota,27,2010,In Hospital,67912
+Minnesota,27,2010,Residence,609
+Minnesota,27,2010,Other,83
+Minnesota,27,2011,In Hospital,67704
+Minnesota,27,2011,Residence,622
+Minnesota,27,2011,Other,79
+Minnesota,27,2012,In Hospital,67916
+Minnesota,27,2012,Residence,743
+Minnesota,27,2012,Other,108
+Minnesota,27,2013,In Hospital,68082
+Minnesota,27,2013,Freestanding Birth Center,203
+Minnesota,27,2013,Residence,783
+Minnesota,27,2013,Other,85
+Minnesota,27,2014,In Hospital,68750
+Minnesota,27,2014,Freestanding Birth Center,351
+Minnesota,27,2014,Residence,751
+Minnesota,27,2014,Other,51
+Minnesota,27,2015,In Hospital,68453
+Minnesota,27,2015,Freestanding Birth Center,437
+Minnesota,27,2015,Residence,876
+Minnesota,27,2015,Other,64
+Minnesota,27,2016,In Hospital,68268
+Minnesota,27,2016,Freestanding Birth Center,527
+Minnesota,27,2016,Residence,899
+Minnesota,27,2016,Other,51
+Minnesota,27,2017,In Hospital,67044
+Minnesota,27,2017,Freestanding Birth Center,543
+Minnesota,27,2017,Residence,972
+Minnesota,27,2017,Other,35
+Minnesota,27,2018,In Hospital,65756
+Minnesota,27,2018,Freestanding Birth Center,729
+Minnesota,27,2018,Residence,826
+Minnesota,27,2018,Other,31
+Minnesota,27,2019,In Hospital,64466
+Minnesota,27,2019,Freestanding Birth Center,726
+Minnesota,27,2019,Residence,800
+Minnesota,27,2019,Other,33
+Minnesota,27,2020,In Hospital,61645
+Minnesota,27,2020,Freestanding Birth Center,831
+Minnesota,27,2020,Residence,926
+Minnesota,27,2020,Other,38
+Minnesota,27,2021,In Hospital,62651
+Minnesota,27,2021,Freestanding Birth Center,709
+Minnesota,27,2021,Residence,1033
+Minnesota,27,2021,Other,32
+Minnesota,27,2022,In Hospital,62147
+Minnesota,27,2022,Freestanding Birth Center,729
+Minnesota,27,2022,Residence,1112
+Minnesota,27,2022,Other,26
+Minnesota,27,2023,In Hospital,59814
+Minnesota,27,2023,Freestanding Birth Center,715
+Minnesota,27,2023,Residence,1154
+Minnesota,27,2023,Other,29
+Minnesota,27,2024,In Hospital,60194
+Minnesota,27,2024,Freestanding Birth Center,709
+Minnesota,27,2024,Residence,1161
+Minnesota,27,2024,Other,40
+Mississippi,28,2007,In Hospital,46362
+Mississippi,28,2007,Residence,108
+Mississippi,28,2007,Other,19
+Mississippi,28,2008,In Hospital,44840
+Mississippi,28,2008,Residence,91
+Mississippi,28,2008,Other,12
+Mississippi,28,2009,In Hospital,42768
+Mississippi,28,2009,Residence,113
+Mississippi,28,2009,Other,17
+Mississippi,28,2010,In Hospital,39900
+Mississippi,28,2010,Residence,121
+Mississippi,28,2010,Other,14
+Mississippi,28,2011,In Hospital,39732
+Mississippi,28,2011,Residence,107
+Mississippi,28,2011,Other,16
+Mississippi,28,2012,In Hospital,38522
+Mississippi,28,2012,Residence,131
+Mississippi,28,2012,Other,13
+Mississippi,28,2013,In Hospital,38499
+Mississippi,28,2013,Residence,120
+Mississippi,28,2013,Other,13
+Mississippi,28,2014,In Hospital,38563
+Mississippi,28,2014,Residence,152
+Mississippi,28,2014,Other,17
+Mississippi,28,2015,In Hospital,38228
+Mississippi,28,2015,Residence,146
+Mississippi,28,2015,Other,19
+Mississippi,28,2016,In Hospital,37753
+Mississippi,28,2016,Residence,148
+Mississippi,28,2016,Other,25
+Mississippi,28,2017,In Hospital,37154
+Mississippi,28,2017,Residence,179
+Mississippi,28,2017,Other,22
+Mississippi,28,2018,In Hospital,36795
+Mississippi,28,2018,Residence,184
+Mississippi,28,2018,Other,17
+Mississippi,28,2019,In Hospital,36451
+Mississippi,28,2019,Residence,169
+Mississippi,28,2019,Other,16
+Mississippi,28,2020,In Hospital,35229
+Mississippi,28,2020,Residence,204
+Mississippi,28,2020,Other,33
+Mississippi,28,2021,In Hospital,34920
+Mississippi,28,2021,Residence,196
+Mississippi,28,2021,Other,33
+Mississippi,28,2022,In Hospital,34393
+Mississippi,28,2022,Residence,241
+Mississippi,28,2022,Other,31
+Mississippi,28,2023,In Hospital,34153
+Mississippi,28,2023,Residence,271
+Mississippi,28,2023,Other,29
+Mississippi,28,2024,In Hospital,33165
+Mississippi,28,2024,Residence,270
+Mississippi,28,2024,Other,32
+Missouri,29,2007,In Hospital,81072
+Missouri,29,2007,Freestanding Birth Center,35
+Missouri,29,2007,Clinic/Doctor's Office,74
+Missouri,29,2007,Residence,724
+Missouri,29,2007,Other,25
+Missouri,29,2008,In Hospital,80091
+Missouri,29,2008,Freestanding Birth Center,43
+Missouri,29,2008,Clinic/Doctor's Office,51
+Missouri,29,2008,Residence,752
+Missouri,29,2008,Other,26
+Missouri,29,2009,In Hospital,77887
+Missouri,29,2009,Freestanding Birth Center,86
+Missouri,29,2009,Clinic/Doctor's Office,58
+Missouri,29,2009,Residence,843
+Missouri,29,2009,Other,30
+Missouri,29,2010,In Hospital,75690
+Missouri,29,2010,Freestanding Birth Center,59
+Missouri,29,2010,Clinic/Doctor's Office,71
+Missouri,29,2010,Residence,859
+Missouri,29,2010,Other,77
+Missouri,29,2011,In Hospital,74912
+Missouri,29,2011,Freestanding Birth Center,61
+Missouri,29,2011,Clinic/Doctor's Office,76
+Missouri,29,2011,Residence,989
+Missouri,29,2011,Other,78
+Missouri,29,2012,In Hospital,74023
+Missouri,29,2012,Freestanding Birth Center,136
+Missouri,29,2012,Clinic/Doctor's Office,69
+Missouri,29,2012,Residence,1151
+Missouri,29,2012,Other,66
+Missouri,29,2013,In Hospital,73791
+Missouri,29,2013,Freestanding Birth Center,297
+Missouri,29,2013,Clinic/Doctor's Office,37
+Missouri,29,2013,Residence,1094
+Missouri,29,2013,Other,75
+Missouri,29,2014,In Hospital,73711
+Missouri,29,2014,Freestanding Birth Center,382
+Missouri,29,2014,Clinic/Doctor's Office,34
+Missouri,29,2014,Residence,1143
+Missouri,29,2014,Other,89
+Missouri,29,2015,In Hospital,73416
+Missouri,29,2015,Freestanding Birth Center,367
+Missouri,29,2015,Clinic/Doctor's Office,40
+Missouri,29,2015,Residence,1131
+Missouri,29,2015,Other,106
+Missouri,29,2016,In Hospital,72969
+Missouri,29,2016,Freestanding Birth Center,295
+Missouri,29,2016,Clinic/Doctor's Office,139
+Missouri,29,2016,Residence,1179
+Missouri,29,2016,Other,122
+Missouri,29,2017,In Hospital,71312
+Missouri,29,2017,Freestanding Birth Center,268
+Missouri,29,2017,Clinic/Doctor's Office,194
+Missouri,29,2017,Residence,1164
+Missouri,29,2017,Other,95
+Missouri,29,2018,In Hospital,71457
+Missouri,29,2018,Freestanding Birth Center,275
+Missouri,29,2018,Clinic/Doctor's Office,214
+Missouri,29,2018,Residence,1183
+Missouri,29,2018,Other,139
+Missouri,29,2019,In Hospital,70422
+Missouri,29,2019,Freestanding Birth Center,240
+Missouri,29,2019,Clinic/Doctor's Office,230
+Missouri,29,2019,Residence,1071
+Missouri,29,2019,Other,162
+Missouri,29,2020,In Hospital,67274
+Missouri,29,2020,Freestanding Birth Center,272
+Missouri,29,2020,Clinic/Doctor's Office,251
+Missouri,29,2020,Residence,1309
+Missouri,29,2020,Other,178
+Missouri,29,2021,In Hospital,67252
+Missouri,29,2021,Freestanding Birth Center,247
+Missouri,29,2021,Clinic/Doctor's Office,296
+Missouri,29,2021,Residence,1403
+Missouri,29,2021,Other,252
+Missouri,29,2022,In Hospital,66768
+Missouri,29,2022,Freestanding Birth Center,197
+Missouri,29,2022,Clinic/Doctor's Office,318
+Missouri,29,2022,Residence,1421
+Missouri,29,2022,Other,279
+Missouri,29,2023,In Hospital,64832
+Missouri,29,2023,Freestanding Birth Center,150
+Missouri,29,2023,Clinic/Doctor's Office,244
+Missouri,29,2023,Residence,1692
+Missouri,29,2023,Other,204
+Missouri,29,2024,In Hospital,65782
+Missouri,29,2024,Freestanding Birth Center,132
+Missouri,29,2024,Clinic/Doctor's Office,173
+Missouri,29,2024,Residence,1722
+Missouri,29,2024,Other,186
+Montana,30,2007,In Hospital,11993
+Montana,30,2007,Freestanding Birth Center,178
+Montana,30,2007,Residence,251
+Montana,30,2007,Other,11
+Montana,30,2008,In Hospital,12119
+Montana,30,2008,Freestanding Birth Center,199
+Montana,30,2008,Residence,274
+Montana,30,2009,In Hospital,11808
+Montana,30,2009,Freestanding Birth Center,136
+Montana,30,2009,Residence,313
+Montana,30,2010,In Hospital,11643
+Montana,30,2010,Freestanding Birth Center,153
+Montana,30,2010,Residence,264
+Montana,30,2011,In Hospital,11597
+Montana,30,2011,Freestanding Birth Center,218
+Montana,30,2011,Residence,253
+Montana,30,2012,In Hospital,11640
+Montana,30,2012,Freestanding Birth Center,192
+Montana,30,2012,Residence,284
+Montana,30,2013,In Hospital,11818
+Montana,30,2013,Freestanding Birth Center,253
+Montana,30,2013,Residence,306
+Montana,30,2014,In Hospital,11944
+Montana,30,2014,Freestanding Birth Center,212
+Montana,30,2014,Residence,276
+Montana,30,2015,In Hospital,12082
+Montana,30,2015,Freestanding Birth Center,209
+Montana,30,2015,Residence,292
+Montana,30,2016,In Hospital,11805
+Montana,30,2016,Freestanding Birth Center,186
+Montana,30,2016,Residence,289
+Montana,30,2017,In Hospital,11318
+Montana,30,2017,Freestanding Birth Center,158
+Montana,30,2017,Residence,323
+Montana,30,2018,In Hospital,11059
+Montana,30,2018,Freestanding Birth Center,179
+Montana,30,2018,Residence,275
+Montana,30,2019,In Hospital,10639
+Montana,30,2019,Freestanding Birth Center,176
+Montana,30,2019,Residence,263
+Montana,30,2020,In Hospital,10342
+Montana,30,2020,Freestanding Birth Center,168
+Montana,30,2020,Residence,280
+Montana,30,2021,In Hospital,10736
+Montana,30,2021,Freestanding Birth Center,173
+Montana,30,2021,Residence,320
+Montana,30,2022,In Hospital,10583
+Montana,30,2022,Freestanding Birth Center,157
+Montana,30,2022,Residence,434
+Montana,30,2023,In Hospital,10464
+Montana,30,2023,Freestanding Birth Center,182
+Montana,30,2023,Residence,431
+Montana,30,2024,In Hospital,10612
+Montana,30,2024,Freestanding Birth Center,217
+Montana,30,2024,Residence,502
+Nebraska,31,2007,In Hospital,26858
+Nebraska,31,2007,Residence,67
+Nebraska,31,2008,In Hospital,26910
+Nebraska,31,2008,Residence,71
+Nebraska,31,2009,In Hospital,26835
+Nebraska,31,2009,Residence,98
+Nebraska,31,2010,In Hospital,25825
+Nebraska,31,2010,Residence,87
+Nebraska,31,2011,In Hospital,25611
+Nebraska,31,2011,Residence,100
+Nebraska,31,2012,In Hospital,25747
+Nebraska,31,2012,Freestanding Birth Center,100
+Nebraska,31,2012,Residence,88
+Nebraska,31,2013,In Hospital,25896
+Nebraska,31,2013,Freestanding Birth Center,115
+Nebraska,31,2013,Residence,78
+Nebraska,31,2014,In Hospital,26592
+Nebraska,31,2014,Freestanding Birth Center,112
+Nebraska,31,2014,Residence,82
+Nebraska,31,2015,In Hospital,26491
+Nebraska,31,2015,Freestanding Birth Center,92
+Nebraska,31,2015,Residence,85
+Nebraska,31,2015,Other,10
+Nebraska,31,2016,In Hospital,26400
+Nebraska,31,2016,Freestanding Birth Center,91
+Nebraska,31,2016,Residence,93
+Nebraska,31,2017,In Hospital,25686
+Nebraska,31,2017,Freestanding Birth Center,38
+Nebraska,31,2017,Residence,90
+Nebraska,31,2018,In Hospital,25363
+Nebraska,31,2018,Freestanding Birth Center,37
+Nebraska,31,2018,Residence,81
+Nebraska,31,2019,In Hospital,24616
+Nebraska,31,2019,Freestanding Birth Center,39
+Nebraska,31,2019,Residence,93
+Nebraska,31,2020,In Hospital,24129
+Nebraska,31,2020,Freestanding Birth Center,46
+Nebraska,31,2020,Residence,108
+Nebraska,31,2021,In Hospital,24455
+Nebraska,31,2021,Freestanding Birth Center,47
+Nebraska,31,2021,Residence,99
+Nebraska,31,2022,In Hospital,24203
+Nebraska,31,2022,Freestanding Birth Center,47
+Nebraska,31,2022,Residence,91
+Nebraska,31,2023,In Hospital,23938
+Nebraska,31,2023,Freestanding Birth Center,52
+Nebraska,31,2023,Residence,118
+Nebraska,31,2024,In Hospital,24578
+Nebraska,31,2024,Freestanding Birth Center,39
+Nebraska,31,2024,Residence,162
+Nevada,32,2007,In Hospital,40723
+Nevada,32,2007,Freestanding Birth Center,16
+Nevada,32,2007,Residence,416
+Nevada,32,2007,Other,26
+Nevada,32,2008,In Hospital,39060
+Nevada,32,2008,Freestanding Birth Center,23
+Nevada,32,2008,Residence,399
+Nevada,32,2008,Other,20
+Nevada,32,2009,In Hospital,37138
+Nevada,32,2009,Freestanding Birth Center,16
+Nevada,32,2009,Residence,432
+Nevada,32,2009,Other,21
+Nevada,32,2010,In Hospital,35411
+Nevada,32,2010,Freestanding Birth Center,15
+Nevada,32,2010,Residence,468
+Nevada,32,2010,Other,37
+Nevada,32,2011,In Hospital,34795
+Nevada,32,2011,Residence,457
+Nevada,32,2011,Other,35
+Nevada,32,2012,In Hospital,34398
+Nevada,32,2012,Residence,474
+Nevada,32,2012,Other,30
+Nevada,32,2013,In Hospital,34430
+Nevada,32,2013,Freestanding Birth Center,17
+Nevada,32,2013,Residence,549
+Nevada,32,2013,Other,34
+Nevada,32,2014,In Hospital,35316
+Nevada,32,2014,Residence,503
+Nevada,32,2014,Other,36
+Nevada,32,2015,In Hospital,35773
+Nevada,32,2015,Residence,473
+Nevada,32,2015,Other,43
+Nevada,32,2016,In Hospital,35737
+Nevada,32,2016,Residence,480
+Nevada,32,2016,Other,34
+Nevada,32,2017,In Hospital,35244
+Nevada,32,2017,Residence,487
+Nevada,32,2017,Other,19
+Nevada,32,2018,In Hospital,35174
+Nevada,32,2018,Residence,480
+Nevada,32,2018,Other,14
+Nevada,32,2019,In Hospital,34479
+Nevada,32,2019,Residence,573
+Nevada,32,2019,Other,11
+Nevada,32,2020,In Hospital,32997
+Nevada,32,2020,Freestanding Birth Center,15
+Nevada,32,2020,Residence,593
+Nevada,32,2020,Unknown or Not Stated,43
+Nevada,32,2021,In Hospital,32974
+Nevada,32,2021,Freestanding Birth Center,30
+Nevada,32,2021,Residence,623
+Nevada,32,2021,Other,18
+Nevada,32,2021,Unknown or Not Stated,41
+Nevada,32,2022,In Hospital,32451
+Nevada,32,2022,Freestanding Birth Center,88
+Nevada,32,2022,Residence,626
+Nevada,32,2022,Other,16
+Nevada,32,2022,Unknown or Not Stated,11
+Nevada,32,2023,In Hospital,31038
+Nevada,32,2023,Freestanding Birth Center,133
+Nevada,32,2023,Residence,601
+Nevada,32,2023,Other,15
+Nevada,32,2024,In Hospital,31616
+Nevada,32,2024,Freestanding Birth Center,130
+Nevada,32,2024,Residence,630
+New Hampshire,33,2007,In Hospital,14012
+New Hampshire,33,2007,Freestanding Birth Center,66
+New Hampshire,33,2007,Residence,89
+New Hampshire,33,2008,In Hospital,13493
+New Hampshire,33,2008,Freestanding Birth Center,71
+New Hampshire,33,2008,Residence,118
+New Hampshire,33,2009,In Hospital,13164
+New Hampshire,33,2009,Freestanding Birth Center,78
+New Hampshire,33,2009,Residence,134
+New Hampshire,33,2010,In Hospital,12680
+New Hampshire,33,2010,Freestanding Birth Center,69
+New Hampshire,33,2010,Residence,123
+New Hampshire,33,2011,In Hospital,12629
+New Hampshire,33,2011,Freestanding Birth Center,93
+New Hampshire,33,2011,Residence,126
+New Hampshire,33,2012,In Hospital,12139
+New Hampshire,33,2012,Freestanding Birth Center,87
+New Hampshire,33,2012,Residence,119
+New Hampshire,33,2013,In Hospital,12137
+New Hampshire,33,2013,Freestanding Birth Center,118
+New Hampshire,33,2013,Residence,137
+New Hampshire,33,2014,In Hospital,12055
+New Hampshire,33,2014,Freestanding Birth Center,128
+New Hampshire,33,2014,Residence,111
+New Hampshire,33,2015,In Hospital,12157
+New Hampshire,33,2015,Freestanding Birth Center,117
+New Hampshire,33,2015,Residence,152
+New Hampshire,33,2016,In Hospital,11980
+New Hampshire,33,2016,Freestanding Birth Center,136
+New Hampshire,33,2016,Residence,144
+New Hampshire,33,2017,In Hospital,11849
+New Hampshire,33,2017,Freestanding Birth Center,121
+New Hampshire,33,2017,Residence,143
+New Hampshire,33,2018,In Hospital,11713
+New Hampshire,33,2018,Freestanding Birth Center,109
+New Hampshire,33,2018,Residence,166
+New Hampshire,33,2019,In Hospital,11542
+New Hampshire,33,2019,Freestanding Birth Center,123
+New Hampshire,33,2019,Residence,163
+New Hampshire,33,2020,In Hospital,11452
+New Hampshire,33,2020,Freestanding Birth Center,172
+New Hampshire,33,2020,Residence,161
+New Hampshire,33,2021,In Hospital,12177
+New Hampshire,33,2021,Freestanding Birth Center,200
+New Hampshire,33,2021,Residence,243
+New Hampshire,33,2022,In Hospital,11652
+New Hampshire,33,2022,Freestanding Birth Center,175
+New Hampshire,33,2022,Residence,241
+New Hampshire,33,2023,In Hospital,11526
+New Hampshire,33,2023,Freestanding Birth Center,134
+New Hampshire,33,2023,Residence,270
+New Hampshire,33,2024,In Hospital,11362
+New Hampshire,33,2024,Freestanding Birth Center,116
+New Hampshire,33,2024,Residence,286
+New Jersey,34,2007,In Hospital,115661
+New Jersey,34,2007,Freestanding Birth Center,21
+New Jersey,34,2007,Residence,295
+New Jersey,34,2007,Other,76
+New Jersey,34,2007,Unknown or Not Stated,10
+New Jersey,34,2008,In Hospital,112283
+New Jersey,34,2008,Freestanding Birth Center,35
+New Jersey,34,2008,Residence,288
+New Jersey,34,2008,Other,95
+New Jersey,34,2009,In Hospital,109921
+New Jersey,34,2009,Freestanding Birth Center,27
+New Jersey,34,2009,Residence,278
+New Jersey,34,2009,Other,101
+New Jersey,34,2010,In Hospital,106503
+New Jersey,34,2010,Freestanding Birth Center,21
+New Jersey,34,2010,Residence,302
+New Jersey,34,2010,Other,91
+New Jersey,34,2011,In Hospital,105409
+New Jersey,34,2011,Freestanding Birth Center,25
+New Jersey,34,2011,Residence,336
+New Jersey,34,2011,Other,109
+New Jersey,34,2012,In Hospital,103765
+New Jersey,34,2012,Freestanding Birth Center,25
+New Jersey,34,2012,Residence,336
+New Jersey,34,2012,Other,96
+New Jersey,34,2013,In Hospital,102101
+New Jersey,34,2013,Freestanding Birth Center,23
+New Jersey,34,2013,Residence,349
+New Jersey,34,2013,Other,93
+New Jersey,34,2014,In Hospital,102796
+New Jersey,34,2014,Freestanding Birth Center,30
+New Jersey,34,2014,Residence,381
+New Jersey,34,2014,Other,91
+New Jersey,34,2015,In Hospital,102619
+New Jersey,34,2015,Freestanding Birth Center,13
+New Jersey,34,2015,Clinic/Doctor's Office,11
+New Jersey,34,2015,Residence,394
+New Jersey,34,2015,Other,90
+New Jersey,34,2016,In Hospital,102122
+New Jersey,34,2016,Freestanding Birth Center,25
+New Jersey,34,2016,Residence,404
+New Jersey,34,2016,Other,87
+New Jersey,34,2017,In Hospital,100736
+New Jersey,34,2017,Freestanding Birth Center,18
+New Jersey,34,2017,Residence,397
+New Jersey,34,2017,Other,95
+New Jersey,34,2018,In Hospital,100614
+New Jersey,34,2018,Freestanding Birth Center,59
+New Jersey,34,2018,Clinic/Doctor's Office,11
+New Jersey,34,2018,Residence,443
+New Jersey,34,2018,Other,96
+New Jersey,34,2019,In Hospital,98926
+New Jersey,34,2019,Freestanding Birth Center,142
+New Jersey,34,2019,Residence,415
+New Jersey,34,2019,Other,97
+New Jersey,34,2020,In Hospital,96993
+New Jersey,34,2020,Freestanding Birth Center,299
+New Jersey,34,2020,Residence,562
+New Jersey,34,2020,Other,95
+New Jersey,34,2021,In Hospital,100399
+New Jersey,34,2021,Freestanding Birth Center,397
+New Jersey,34,2021,Residence,591
+New Jersey,34,2021,Other,103
+New Jersey,34,2022,In Hospital,101648
+New Jersey,34,2022,Freestanding Birth Center,527
+New Jersey,34,2022,Residence,605
+New Jersey,34,2022,Other,110
+New Jersey,34,2023,In Hospital,99701
+New Jersey,34,2023,Freestanding Birth Center,626
+New Jersey,34,2023,Residence,545
+New Jersey,34,2023,Other,120
+New Jersey,34,2024,In Hospital,100148
+New Jersey,34,2024,Freestanding Birth Center,605
+New Jersey,34,2024,Residence,524
+New Jersey,34,2024,Other,89
+New Mexico,35,2007,In Hospital,30239
+New Mexico,35,2007,Freestanding Birth Center,76
+New Mexico,35,2007,Residence,273
+New Mexico,35,2007,Other,24
+New Mexico,35,2008,In Hospital,29766
+New Mexico,35,2008,Freestanding Birth Center,71
+New Mexico,35,2008,Residence,306
+New Mexico,35,2008,Other,23
+New Mexico,35,2009,In Hospital,28589
+New Mexico,35,2009,Freestanding Birth Center,85
+New Mexico,35,2009,Residence,300
+New Mexico,35,2009,Other,22
+New Mexico,35,2010,In Hospital,27426
+New Mexico,35,2010,Freestanding Birth Center,72
+New Mexico,35,2010,Residence,322
+New Mexico,35,2010,Other,29
+New Mexico,35,2011,In Hospital,26871
+New Mexico,35,2011,Freestanding Birth Center,76
+New Mexico,35,2011,Residence,311
+New Mexico,35,2011,Other,30
+New Mexico,35,2012,In Hospital,26552
+New Mexico,35,2012,Freestanding Birth Center,121
+New Mexico,35,2012,Residence,358
+New Mexico,35,2012,Other,36
+New Mexico,35,2013,In Hospital,25826
+New Mexico,35,2013,Freestanding Birth Center,129
+New Mexico,35,2013,Residence,371
+New Mexico,35,2013,Other,28
+New Mexico,35,2014,In Hospital,25514
+New Mexico,35,2014,Freestanding Birth Center,183
+New Mexico,35,2014,Residence,329
+New Mexico,35,2014,Other,25
+New Mexico,35,2015,In Hospital,25296
+New Mexico,35,2015,Freestanding Birth Center,172
+New Mexico,35,2015,Residence,308
+New Mexico,35,2015,Other,38
+New Mexico,35,2016,In Hospital,24196
+New Mexico,35,2016,Freestanding Birth Center,183
+New Mexico,35,2016,Residence,285
+New Mexico,35,2016,Other,28
+New Mexico,35,2017,In Hospital,23249
+New Mexico,35,2017,Freestanding Birth Center,209
+New Mexico,35,2017,Residence,283
+New Mexico,35,2017,Other,26
+New Mexico,35,2018,In Hospital,22538
+New Mexico,35,2018,Freestanding Birth Center,180
+New Mexico,35,2018,Residence,291
+New Mexico,35,2018,Other,29
+New Mexico,35,2019,In Hospital,22440
+New Mexico,35,2019,Freestanding Birth Center,220
+New Mexico,35,2019,Residence,274
+New Mexico,35,2019,Other,26
+New Mexico,35,2020,In Hospital,21315
+New Mexico,35,2020,Freestanding Birth Center,205
+New Mexico,35,2020,Residence,350
+New Mexico,35,2020,Other,31
+New Mexico,35,2021,In Hospital,20773
+New Mexico,35,2021,Freestanding Birth Center,189
+New Mexico,35,2021,Residence,406
+New Mexico,35,2021,Other,23
+New Mexico,35,2022,In Hospital,20982
+New Mexico,35,2022,Freestanding Birth Center,196
+New Mexico,35,2022,Residence,402
+New Mexico,35,2022,Other,33
+New Mexico,35,2023,In Hospital,20372
+New Mexico,35,2023,Freestanding Birth Center,221
+New Mexico,35,2023,Residence,329
+New Mexico,35,2023,Other,29
+New Mexico,35,2024,In Hospital,20731
+New Mexico,35,2024,Freestanding Birth Center,194
+New Mexico,35,2024,Residence,366
+New Mexico,35,2024,Other,31
+New York,36,2007,In Hospital,251469
+New York,36,2007,Freestanding Birth Center,189
+New York,36,2007,Clinic/Doctor's Office,33
+New York,36,2007,Residence,1478
+New York,36,2007,Other,278
+New York,36,2008,In Hospital,248155
+New York,36,2008,Freestanding Birth Center,230
+New York,36,2008,Clinic/Doctor's Office,38
+New York,36,2008,Residence,1699
+New York,36,2008,Other,253
+New York,36,2009,In Hospital,245771
+New York,36,2009,Freestanding Birth Center,183
+New York,36,2009,Clinic/Doctor's Office,53
+New York,36,2009,Residence,1815
+New York,36,2009,Other,285
+New York,36,2010,In Hospital,241823
+New York,36,2010,Freestanding Birth Center,202
+New York,36,2010,Clinic/Doctor's Office,45
+New York,36,2010,Residence,2068
+New York,36,2010,Other,235
+New York,36,2011,In Hospital,238591
+New York,36,2011,Freestanding Birth Center,191
+New York,36,2011,Clinic/Doctor's Office,60
+New York,36,2011,Residence,2130
+New York,36,2011,Other,328
+New York,36,2011,Unknown or Not Stated,12
+New York,36,2012,In Hospital,238166
+New York,36,2012,Freestanding Birth Center,141
+New York,36,2012,Clinic/Doctor's Office,62
+New York,36,2012,Residence,2177
+New York,36,2012,Other,366
+New York,36,2013,In Hospital,234113
+New York,36,2013,Freestanding Birth Center,163
+New York,36,2013,Clinic/Doctor's Office,47
+New York,36,2013,Residence,2212
+New York,36,2013,Other,434
+New York,36,2013,Unknown or Not Stated,11
+New York,36,2014,In Hospital,235698
+New York,36,2014,Freestanding Birth Center,190
+New York,36,2014,Clinic/Doctor's Office,35
+New York,36,2014,Residence,2325
+New York,36,2014,Other,520
+New York,36,2015,In Hospital,234168
+New York,36,2015,Freestanding Birth Center,176
+New York,36,2015,Clinic/Doctor's Office,45
+New York,36,2015,Residence,2331
+New York,36,2015,Other,548
+New York,36,2016,In Hospital,231201
+New York,36,2016,Freestanding Birth Center,167
+New York,36,2016,Clinic/Doctor's Office,24
+New York,36,2016,Residence,2330
+New York,36,2016,Other,561
+New York,36,2017,In Hospital,226534
+New York,36,2017,Freestanding Birth Center,173
+New York,36,2017,Clinic/Doctor's Office,46
+New York,36,2017,Residence,2339
+New York,36,2017,Other,643
+New York,36,2018,In Hospital,222922
+New York,36,2018,Freestanding Birth Center,219
+New York,36,2018,Clinic/Doctor's Office,47
+New York,36,2018,Residence,2477
+New York,36,2018,Other,567
+New York,36,2019,In Hospital,218297
+New York,36,2019,Freestanding Birth Center,264
+New York,36,2019,Clinic/Doctor's Office,34
+New York,36,2019,Residence,2458
+New York,36,2019,Other,484
+New York,36,2020,In Hospital,205358
+New York,36,2020,Freestanding Birth Center,349
+New York,36,2020,Clinic/Doctor's Office,37
+New York,36,2020,Residence,3030
+New York,36,2020,Other,562
+New York,36,2021,In Hospital,206768
+New York,36,2021,Freestanding Birth Center,316
+New York,36,2021,Clinic/Doctor's Office,29
+New York,36,2021,Residence,2913
+New York,36,2021,Other,716
+New York,36,2022,In Hospital,203789
+New York,36,2022,Freestanding Birth Center,213
+New York,36,2022,Clinic/Doctor's Office,47
+New York,36,2022,Residence,3019
+New York,36,2022,Other,700
+New York,36,2023,In Hospital,199631
+New York,36,2023,Freestanding Birth Center,188
+New York,36,2023,Clinic/Doctor's Office,17
+New York,36,2023,Residence,3045
+New York,36,2023,Other,727
+New York,36,2024,In Hospital,201377
+New York,36,2024,Freestanding Birth Center,218
+New York,36,2024,Clinic/Doctor's Office,69
+New York,36,2024,Residence,3106
+New York,36,2024,Other,719
+North Carolina,37,2007,In Hospital,130239
+North Carolina,37,2007,Freestanding Birth Center,216
+North Carolina,37,2007,Residence,477
+North Carolina,37,2007,Other,100
+North Carolina,37,2008,In Hospital,129876
+North Carolina,37,2008,Freestanding Birth Center,257
+North Carolina,37,2008,Residence,602
+North Carolina,37,2008,Other,99
+North Carolina,37,2009,In Hospital,125915
+North Carolina,37,2009,Freestanding Birth Center,245
+North Carolina,37,2009,Residence,575
+North Carolina,37,2009,Other,105
+North Carolina,37,2010,In Hospital,121277
+North Carolina,37,2010,Freestanding Birth Center,354
+North Carolina,37,2010,Residence,639
+North Carolina,37,2010,Other,75
+North Carolina,37,2011,In Hospital,119239
+North Carolina,37,2011,Freestanding Birth Center,461
+North Carolina,37,2011,Residence,672
+North Carolina,37,2011,Other,13
+North Carolina,37,2012,In Hospital,118670
+North Carolina,37,2012,Freestanding Birth Center,540
+North Carolina,37,2012,Residence,605
+North Carolina,37,2012,Other,12
+North Carolina,37,2013,In Hospital,117797
+North Carolina,37,2013,Freestanding Birth Center,535
+North Carolina,37,2013,Residence,648
+North Carolina,37,2013,Other,16
+North Carolina,37,2014,In Hospital,119756
+North Carolina,37,2014,Freestanding Birth Center,574
+North Carolina,37,2014,Residence,624
+North Carolina,37,2014,Other,20
+North Carolina,37,2015,In Hospital,119505
+North Carolina,37,2015,Freestanding Birth Center,655
+North Carolina,37,2015,Residence,659
+North Carolina,37,2015,Other,21
+North Carolina,37,2016,In Hospital,119281
+North Carolina,37,2016,Freestanding Birth Center,865
+North Carolina,37,2016,Residence,604
+North Carolina,37,2016,Other,23
+North Carolina,37,2017,In Hospital,118286
+North Carolina,37,2017,Freestanding Birth Center,1173
+North Carolina,37,2017,Residence,642
+North Carolina,37,2017,Other,19
+North Carolina,37,2018,In Hospital,117201
+North Carolina,37,2018,Freestanding Birth Center,1097
+North Carolina,37,2018,Residence,624
+North Carolina,37,2018,Other,25
+North Carolina,37,2019,In Hospital,117112
+North Carolina,37,2019,Freestanding Birth Center,876
+North Carolina,37,2019,Residence,716
+North Carolina,37,2019,Other,15
+North Carolina,37,2020,In Hospital,115021
+North Carolina,37,2020,Freestanding Birth Center,825
+North Carolina,37,2020,Residence,852
+North Carolina,37,2020,Other,22
+North Carolina,37,2021,In Hospital,118653
+North Carolina,37,2021,Freestanding Birth Center,709
+North Carolina,37,2021,Clinic/Doctor's Office,67
+North Carolina,37,2021,Residence,1017
+North Carolina,37,2021,Other,17
+North Carolina,37,2022,In Hospital,119876
+North Carolina,37,2022,Freestanding Birth Center,598
+North Carolina,37,2022,Residence,1067
+North Carolina,37,2022,Other,21
+North Carolina,37,2023,In Hospital,118364
+North Carolina,37,2023,Freestanding Birth Center,528
+North Carolina,37,2023,Residence,1155
+North Carolina,37,2023,Other,25
+North Carolina,37,2024,In Hospital,120805
+North Carolina,37,2024,Freestanding Birth Center,611
+North Carolina,37,2024,Residence,1347
+North Carolina,37,2024,Other,87
+North Dakota,38,2007,In Hospital,8795
+North Dakota,38,2007,Residence,40
+North Dakota,38,2008,In Hospital,8879
+North Dakota,38,2008,Clinic/Doctor's Office,12
+North Dakota,38,2008,Residence,46
+North Dakota,38,2009,In Hospital,8949
+North Dakota,38,2009,Residence,45
+North Dakota,38,2010,In Hospital,9036
+North Dakota,38,2010,Clinic/Doctor's Office,11
+North Dakota,38,2010,Residence,56
+North Dakota,38,2011,In Hospital,9459
+North Dakota,38,2011,Residence,65
+North Dakota,38,2012,In Hospital,10007
+North Dakota,38,2012,Residence,92
+North Dakota,38,2013,In Hospital,10476
+North Dakota,38,2013,Residence,113
+North Dakota,38,2014,In Hospital,11213
+North Dakota,38,2014,Clinic/Doctor's Office,12
+North Dakota,38,2014,Residence,125
+North Dakota,38,2015,In Hospital,11166
+North Dakota,38,2015,Clinic/Doctor's Office,16
+North Dakota,38,2015,Residence,122
+North Dakota,38,2016,In Hospital,11230
+North Dakota,38,2016,Residence,137
+North Dakota,38,2017,In Hospital,10602
+North Dakota,38,2017,Clinic/Doctor's Office,10
+North Dakota,38,2017,Residence,123
+North Dakota,38,2018,In Hospital,10509
+North Dakota,38,2018,Clinic/Doctor's Office,11
+North Dakota,38,2018,Residence,107
+North Dakota,38,2019,In Hospital,10308
+North Dakota,38,2019,Clinic/Doctor's Office,13
+North Dakota,38,2019,Residence,120
+North Dakota,38,2020,In Hospital,9908
+North Dakota,38,2020,Residence,133
+North Dakota,38,2021,In Hospital,9957
+North Dakota,38,2021,Residence,144
+North Dakota,38,2022,In Hospital,9396
+North Dakota,38,2022,Clinic/Doctor's Office,10
+North Dakota,38,2022,Residence,155
+North Dakota,38,2023,In Hospital,9465
+North Dakota,38,2023,Residence,174
+North Dakota,38,2024,In Hospital,9432
+North Dakota,38,2024,Residence,195
+Ohio,39,2007,In Hospital,149081
+Ohio,39,2007,Freestanding Birth Center,643
+Ohio,39,2007,Clinic/Doctor's Office,27
+Ohio,39,2007,Residence,1050
+Ohio,39,2007,Other,76
+Ohio,39,2008,In Hospital,147053
+Ohio,39,2008,Freestanding Birth Center,623
+Ohio,39,2008,Clinic/Doctor's Office,38
+Ohio,39,2008,Residence,1065
+Ohio,39,2008,Other,42
+Ohio,39,2009,In Hospital,142894
+Ohio,39,2009,Freestanding Birth Center,643
+Ohio,39,2009,Clinic/Doctor's Office,41
+Ohio,39,2009,Residence,1200
+Ohio,39,2009,Other,63
+Ohio,39,2010,In Hospital,137123
+Ohio,39,2010,Freestanding Birth Center,643
+Ohio,39,2010,Clinic/Doctor's Office,37
+Ohio,39,2010,Residence,1268
+Ohio,39,2010,Other,56
+Ohio,39,2011,In Hospital,135858
+Ohio,39,2011,Freestanding Birth Center,661
+Ohio,39,2011,Clinic/Doctor's Office,40
+Ohio,39,2011,Residence,1287
+Ohio,39,2011,Other,71
+Ohio,39,2012,In Hospital,136349
+Ohio,39,2012,Freestanding Birth Center,582
+Ohio,39,2012,Clinic/Doctor's Office,53
+Ohio,39,2012,Residence,1428
+Ohio,39,2012,Other,70
+Ohio,39,2013,In Hospital,136733
+Ohio,39,2013,Freestanding Birth Center,609
+Ohio,39,2013,Clinic/Doctor's Office,31
+Ohio,39,2013,Residence,1500
+Ohio,39,2013,Other,63
+Ohio,39,2014,In Hospital,137261
+Ohio,39,2014,Freestanding Birth Center,613
+Ohio,39,2014,Clinic/Doctor's Office,41
+Ohio,39,2014,Residence,1487
+Ohio,39,2014,Other,65
+Ohio,39,2015,In Hospital,136993
+Ohio,39,2015,Freestanding Birth Center,707
+Ohio,39,2015,Clinic/Doctor's Office,31
+Ohio,39,2015,Residence,1471
+Ohio,39,2015,Other,62
+Ohio,39,2016,In Hospital,135808
+Ohio,39,2016,Freestanding Birth Center,695
+Ohio,39,2016,Clinic/Doctor's Office,26
+Ohio,39,2016,Residence,1498
+Ohio,39,2016,Other,58
+Ohio,39,2017,In Hospital,134541
+Ohio,39,2017,Freestanding Birth Center,716
+Ohio,39,2017,Clinic/Doctor's Office,22
+Ohio,39,2017,Residence,1482
+Ohio,39,2017,Other,71
+Ohio,39,2018,In Hospital,132739
+Ohio,39,2018,Freestanding Birth Center,756
+Ohio,39,2018,Clinic/Doctor's Office,34
+Ohio,39,2018,Residence,1529
+Ohio,39,2018,Other,76
+Ohio,39,2019,In Hospital,132050
+Ohio,39,2019,Freestanding Birth Center,694
+Ohio,39,2019,Clinic/Doctor's Office,29
+Ohio,39,2019,Residence,1599
+Ohio,39,2019,Other,89
+Ohio,39,2020,In Hospital,126455
+Ohio,39,2020,Freestanding Birth Center,782
+Ohio,39,2020,Clinic/Doctor's Office,24
+Ohio,39,2020,Residence,1854
+Ohio,39,2020,Other,76
+Ohio,39,2021,In Hospital,126602
+Ohio,39,2021,Freestanding Birth Center,967
+Ohio,39,2021,Clinic/Doctor's Office,23
+Ohio,39,2021,Residence,2099
+Ohio,39,2021,Other,100
+Ohio,39,2022,In Hospital,124960
+Ohio,39,2022,Freestanding Birth Center,896
+Ohio,39,2022,Clinic/Doctor's Office,26
+Ohio,39,2022,Residence,2244
+Ohio,39,2022,Other,105
+Ohio,39,2023,In Hospital,123604
+Ohio,39,2023,Freestanding Birth Center,891
+Ohio,39,2023,Residence,2289
+Ohio,39,2023,Other,108
+Ohio,39,2024,In Hospital,123384
+Ohio,39,2024,Freestanding Birth Center,857
+Ohio,39,2024,Residence,2437
+Ohio,39,2024,Other,114
+Oklahoma,40,2007,In Hospital,54741
+Oklahoma,40,2007,Freestanding Birth Center,43
+Oklahoma,40,2007,Residence,252
+Oklahoma,40,2007,Other,29
+Oklahoma,40,2008,In Hospital,54403
+Oklahoma,40,2008,Freestanding Birth Center,48
+Oklahoma,40,2008,Residence,299
+Oklahoma,40,2008,Other,30
+Oklahoma,40,2009,In Hospital,54200
+Oklahoma,40,2009,Freestanding Birth Center,30
+Oklahoma,40,2009,Residence,285
+Oklahoma,40,2009,Other,37
+Oklahoma,40,2010,In Hospital,52872
+Oklahoma,40,2010,Freestanding Birth Center,16
+Oklahoma,40,2010,Residence,310
+Oklahoma,40,2010,Other,40
+Oklahoma,40,2011,In Hospital,51856
+Oklahoma,40,2011,Freestanding Birth Center,16
+Oklahoma,40,2011,Residence,361
+Oklahoma,40,2011,Other,39
+Oklahoma,40,2012,In Hospital,52301
+Oklahoma,40,2012,Freestanding Birth Center,29
+Oklahoma,40,2012,Residence,383
+Oklahoma,40,2012,Other,38
+Oklahoma,40,2013,In Hospital,52878
+Oklahoma,40,2013,Freestanding Birth Center,63
+Oklahoma,40,2013,Residence,383
+Oklahoma,40,2013,Other,44
+Oklahoma,40,2014,In Hospital,52687
+Oklahoma,40,2014,Freestanding Birth Center,78
+Oklahoma,40,2014,Residence,532
+Oklahoma,40,2014,Other,42
+Oklahoma,40,2015,In Hospital,52446
+Oklahoma,40,2015,Freestanding Birth Center,73
+Oklahoma,40,2015,Residence,555
+Oklahoma,40,2015,Other,48
+Oklahoma,40,2016,In Hospital,51874
+Oklahoma,40,2016,Freestanding Birth Center,98
+Oklahoma,40,2016,Residence,571
+Oklahoma,40,2016,Other,48
+Oklahoma,40,2017,In Hospital,49507
+Oklahoma,40,2017,Freestanding Birth Center,112
+Oklahoma,40,2017,Residence,543
+Oklahoma,40,2017,Other,52
+Oklahoma,40,2018,In Hospital,49042
+Oklahoma,40,2018,Freestanding Birth Center,185
+Oklahoma,40,2018,Residence,516
+Oklahoma,40,2018,Other,55
+Oklahoma,40,2019,In Hospital,48408
+Oklahoma,40,2019,Freestanding Birth Center,178
+Oklahoma,40,2019,Residence,505
+Oklahoma,40,2019,Other,51
+Oklahoma,40,2020,In Hospital,46804
+Oklahoma,40,2020,Freestanding Birth Center,226
+Oklahoma,40,2020,Residence,540
+Oklahoma,40,2020,Other,52
+Oklahoma,40,2021,In Hospital,47473
+Oklahoma,40,2021,Freestanding Birth Center,268
+Oklahoma,40,2021,Residence,614
+Oklahoma,40,2021,Other,53
+Oklahoma,40,2022,In Hospital,47276
+Oklahoma,40,2022,Freestanding Birth Center,333
+Oklahoma,40,2022,Residence,670
+Oklahoma,40,2022,Other,51
+Oklahoma,40,2023,In Hospital,46791
+Oklahoma,40,2023,Freestanding Birth Center,390
+Oklahoma,40,2023,Residence,624
+Oklahoma,40,2023,Other,103
+Oklahoma,40,2024,In Hospital,46881
+Oklahoma,40,2024,Freestanding Birth Center,354
+Oklahoma,40,2024,Residence,673
+Oklahoma,40,2024,Other,52
+Oregon,41,2007,In Hospital,48117
+Oregon,41,2007,Freestanding Birth Center,345
+Oregon,41,2007,Residence,862
+Oregon,41,2007,Other,52
+Oregon,41,2008,In Hospital,47666
+Oregon,41,2008,Freestanding Birth Center,451
+Oregon,41,2008,Residence,936
+Oregon,41,2008,Other,42
+Oregon,41,2009,In Hospital,45751
+Oregon,41,2009,Freestanding Birth Center,425
+Oregon,41,2009,Residence,924
+Oregon,41,2009,Other,30
+Oregon,41,2010,In Hospital,44003
+Oregon,41,2010,Freestanding Birth Center,499
+Oregon,41,2010,Residence,1005
+Oregon,41,2010,Other,32
+Oregon,41,2011,In Hospital,43497
+Oregon,41,2011,Freestanding Birth Center,583
+Oregon,41,2011,Residence,1040
+Oregon,41,2011,Other,35
+Oregon,41,2012,In Hospital,43354
+Oregon,41,2012,Freestanding Birth Center,588
+Oregon,41,2012,Residence,1088
+Oregon,41,2012,Other,36
+Oregon,41,2013,In Hospital,43465
+Oregon,41,2013,Freestanding Birth Center,630
+Oregon,41,2013,Residence,1027
+Oregon,41,2013,Other,33
+Oregon,41,2014,In Hospital,43717
+Oregon,41,2014,Freestanding Birth Center,673
+Oregon,41,2014,Residence,1120
+Oregon,41,2014,Other,44
+Oregon,41,2015,In Hospital,43897
+Oregon,41,2015,Freestanding Birth Center,711
+Oregon,41,2015,Residence,1006
+Oregon,41,2015,Other,41
+Oregon,41,2016,In Hospital,43794
+Oregon,41,2016,Freestanding Birth Center,665
+Oregon,41,2016,Residence,1012
+Oregon,41,2016,Other,63
+Oregon,41,2017,In Hospital,42070
+Oregon,41,2017,Freestanding Birth Center,613
+Oregon,41,2017,Residence,916
+Oregon,41,2017,Other,29
+Oregon,41,2018,In Hospital,40679
+Oregon,41,2018,Freestanding Birth Center,624
+Oregon,41,2018,Residence,845
+Oregon,41,2018,Other,37
+Oregon,41,2019,In Hospital,40436
+Oregon,41,2019,Freestanding Birth Center,525
+Oregon,41,2019,Residence,865
+Oregon,41,2019,Other,28
+Oregon,41,2020,In Hospital,38194
+Oregon,41,2020,Freestanding Birth Center,639
+Oregon,41,2020,Residence,957
+Oregon,41,2020,Other,28
+Oregon,41,2021,In Hospital,39100
+Oregon,41,2021,Freestanding Birth Center,710
+Oregon,41,2021,Residence,1061
+Oregon,41,2021,Other,43
+Oregon,41,2022,In Hospital,37689
+Oregon,41,2022,Freestanding Birth Center,772
+Oregon,41,2022,Residence,995
+Oregon,41,2022,Other,36
+Oregon,41,2023,In Hospital,36607
+Oregon,41,2023,Freestanding Birth Center,610
+Oregon,41,2023,Residence,1048
+Oregon,41,2023,Other,33
+Oregon,41,2024,In Hospital,37137
+Oregon,41,2024,Freestanding Birth Center,728
+Oregon,41,2024,Residence,1051
+Oregon,41,2024,Other,47
+Pennsylvania,42,2007,In Hospital,146947
+Pennsylvania,42,2007,Freestanding Birth Center,1160
+Pennsylvania,42,2007,Clinic/Doctor's Office,31
+Pennsylvania,42,2007,Residence,2493
+Pennsylvania,42,2007,Other,76
+Pennsylvania,42,2008,In Hospital,145426
+Pennsylvania,42,2008,Freestanding Birth Center,1458
+Pennsylvania,42,2008,Clinic/Doctor's Office,19
+Pennsylvania,42,2008,Residence,2298
+Pennsylvania,42,2008,Other,71
+Pennsylvania,42,2009,In Hospital,142508
+Pennsylvania,42,2009,Freestanding Birth Center,1477
+Pennsylvania,42,2009,Clinic/Doctor's Office,20
+Pennsylvania,42,2009,Residence,2367
+Pennsylvania,42,2009,Other,61
+Pennsylvania,42,2010,In Hospital,139138
+Pennsylvania,42,2010,Freestanding Birth Center,1679
+Pennsylvania,42,2010,Clinic/Doctor's Office,23
+Pennsylvania,42,2010,Residence,2452
+Pennsylvania,42,2010,Other,29
+Pennsylvania,42,2011,In Hospital,138924
+Pennsylvania,42,2011,Freestanding Birth Center,1454
+Pennsylvania,42,2011,Clinic/Doctor's Office,32
+Pennsylvania,42,2011,Residence,2708
+Pennsylvania,42,2011,Other,58
+Pennsylvania,42,2012,In Hospital,138057
+Pennsylvania,42,2012,Freestanding Birth Center,1670
+Pennsylvania,42,2012,Clinic/Doctor's Office,12
+Pennsylvania,42,2012,Residence,2569
+Pennsylvania,42,2012,Other,206
+Pennsylvania,42,2013,In Hospital,136372
+Pennsylvania,42,2013,Freestanding Birth Center,1672
+Pennsylvania,42,2013,Clinic/Doctor's Office,14
+Pennsylvania,42,2013,Residence,2537
+Pennsylvania,42,2013,Other,326
+Pennsylvania,42,2014,In Hospital,137671
+Pennsylvania,42,2014,Freestanding Birth Center,1759
+Pennsylvania,42,2014,Clinic/Doctor's Office,14
+Pennsylvania,42,2014,Residence,2472
+Pennsylvania,42,2014,Other,351
+Pennsylvania,42,2015,In Hospital,136283
+Pennsylvania,42,2015,Freestanding Birth Center,1666
+Pennsylvania,42,2015,Clinic/Doctor's Office,20
+Pennsylvania,42,2015,Residence,2542
+Pennsylvania,42,2015,Other,536
+Pennsylvania,42,2016,In Hospital,134607
+Pennsylvania,42,2016,Freestanding Birth Center,1661
+Pennsylvania,42,2016,Clinic/Doctor's Office,11
+Pennsylvania,42,2016,Residence,2641
+Pennsylvania,42,2016,Other,489
+Pennsylvania,42,2017,In Hospital,132880
+Pennsylvania,42,2017,Freestanding Birth Center,1711
+Pennsylvania,42,2017,Clinic/Doctor's Office,11
+Pennsylvania,42,2017,Residence,2611
+Pennsylvania,42,2017,Other,531
+Pennsylvania,42,2018,In Hospital,130727
+Pennsylvania,42,2018,Freestanding Birth Center,1722
+Pennsylvania,42,2018,Clinic/Doctor's Office,10
+Pennsylvania,42,2018,Residence,2638
+Pennsylvania,42,2018,Other,573
+Pennsylvania,42,2019,In Hospital,129314
+Pennsylvania,42,2019,Freestanding Birth Center,1701
+Pennsylvania,42,2019,Residence,2606
+Pennsylvania,42,2019,Other,601
+Pennsylvania,42,2020,In Hospital,125412
+Pennsylvania,42,2020,Freestanding Birth Center,1662
+Pennsylvania,42,2020,Residence,2873
+Pennsylvania,42,2020,Other,736
+Pennsylvania,42,2021,In Hospital,126869
+Pennsylvania,42,2021,Freestanding Birth Center,1552
+Pennsylvania,42,2021,Clinic/Doctor's Office,10
+Pennsylvania,42,2021,Residence,3250
+Pennsylvania,42,2021,Other,941
+Pennsylvania,42,2022,In Hospital,124348
+Pennsylvania,42,2022,Freestanding Birth Center,1227
+Pennsylvania,42,2022,Residence,3840
+Pennsylvania,42,2022,Other,830
+Pennsylvania,42,2023,In Hospital,120934
+Pennsylvania,42,2023,Freestanding Birth Center,1207
+Pennsylvania,42,2023,Residence,4181
+Pennsylvania,42,2023,Other,621
+Pennsylvania,42,2024,In Hospital,121040
+Pennsylvania,42,2024,Freestanding Birth Center,1002
+Pennsylvania,42,2024,Residence,4553
+Pennsylvania,42,2024,Other,704
+Rhode Island,44,2007,In Hospital,12352
+Rhode Island,44,2007,Residence,22
+Rhode Island,44,2008,In Hospital,12006
+Rhode Island,44,2008,Residence,41
+Rhode Island,44,2009,In Hospital,11397
+Rhode Island,44,2009,Residence,43
+Rhode Island,44,2010,In Hospital,11132
+Rhode Island,44,2010,Residence,41
+Rhode Island,44,2011,In Hospital,10916
+Rhode Island,44,2011,Residence,40
+Rhode Island,44,2012,In Hospital,10890
+Rhode Island,44,2012,Residence,36
+Rhode Island,44,2013,In Hospital,10758
+Rhode Island,44,2013,Residence,48
+Rhode Island,44,2014,In Hospital,10782
+Rhode Island,44,2014,Residence,41
+Rhode Island,44,2015,In Hospital,10926
+Rhode Island,44,2015,Residence,64
+Rhode Island,44,2016,In Hospital,10746
+Rhode Island,44,2016,Residence,49
+Rhode Island,44,2017,In Hospital,10584
+Rhode Island,44,2017,Residence,51
+Rhode Island,44,2018,In Hospital,10445
+Rhode Island,44,2018,Residence,59
+Rhode Island,44,2019,In Hospital,10124
+Rhode Island,44,2019,Residence,48
+Rhode Island,44,2020,In Hospital,10022
+Rhode Island,44,2020,Residence,71
+Rhode Island,44,2021,In Hospital,10375
+Rhode Island,44,2021,Residence,84
+Rhode Island,44,2022,In Hospital,10194
+Rhode Island,44,2022,Residence,74
+Rhode Island,44,2023,In Hospital,9726
+Rhode Island,44,2023,Residence,70
+Rhode Island,44,2024,In Hospital,9944
+Rhode Island,44,2024,Residence,60
+South Carolina,45,2007,In Hospital,62474
+South Carolina,45,2007,Freestanding Birth Center,127
+South Carolina,45,2007,Residence,251
+South Carolina,45,2007,Other,23
+South Carolina,45,2008,In Hospital,62592
+South Carolina,45,2008,Freestanding Birth Center,225
+South Carolina,45,2008,Residence,240
+South Carolina,45,2008,Other,13
+South Carolina,45,2009,In Hospital,60080
+South Carolina,45,2009,Freestanding Birth Center,277
+South Carolina,45,2009,Residence,241
+South Carolina,45,2009,Other,22
+South Carolina,45,2010,In Hospital,57717
+South Carolina,45,2010,Freestanding Birth Center,347
+South Carolina,45,2010,Residence,260
+South Carolina,45,2010,Other,15
+South Carolina,45,2011,In Hospital,56696
+South Carolina,45,2011,Freestanding Birth Center,430
+South Carolina,45,2011,Residence,255
+South Carolina,45,2011,Other,10
+South Carolina,45,2012,In Hospital,56343
+South Carolina,45,2012,Freestanding Birth Center,511
+South Carolina,45,2012,Residence,282
+South Carolina,45,2012,Other,17
+South Carolina,45,2013,In Hospital,56001
+South Carolina,45,2013,Freestanding Birth Center,476
+South Carolina,45,2013,Residence,307
+South Carolina,45,2013,Other,10
+South Carolina,45,2014,In Hospital,56831
+South Carolina,45,2014,Freestanding Birth Center,443
+South Carolina,45,2014,Residence,340
+South Carolina,45,2014,Other,10
+South Carolina,45,2015,In Hospital,57274
+South Carolina,45,2015,Freestanding Birth Center,502
+South Carolina,45,2015,Residence,353
+South Carolina,45,2016,In Hospital,56393
+South Carolina,45,2016,Freestanding Birth Center,544
+South Carolina,45,2016,Residence,396
+South Carolina,45,2017,In Hospital,56065
+South Carolina,45,2017,Freestanding Birth Center,549
+South Carolina,45,2017,Residence,406
+South Carolina,45,2018,In Hospital,55732
+South Carolina,45,2018,Freestanding Birth Center,529
+South Carolina,45,2018,Residence,393
+South Carolina,45,2018,Other,12
+South Carolina,45,2019,In Hospital,56224
+South Carolina,45,2019,Freestanding Birth Center,443
+South Carolina,45,2019,Residence,361
+South Carolina,45,2020,In Hospital,54771
+South Carolina,45,2020,Freestanding Birth Center,340
+South Carolina,45,2020,Residence,577
+South Carolina,45,2020,Other,12
+South Carolina,45,2021,In Hospital,56064
+South Carolina,45,2021,Freestanding Birth Center,346
+South Carolina,45,2021,Residence,743
+South Carolina,45,2021,Other,24
+South Carolina,45,2022,In Hospital,56506
+South Carolina,45,2022,Freestanding Birth Center,356
+South Carolina,45,2022,Residence,918
+South Carolina,45,2022,Other,38
+South Carolina,45,2023,In Hospital,56416
+South Carolina,45,2023,Freestanding Birth Center,407
+South Carolina,45,2023,Residence,874
+South Carolina,45,2023,Other,30
+South Carolina,45,2024,In Hospital,57431
+South Carolina,45,2024,Freestanding Birth Center,361
+South Carolina,45,2024,Residence,950
+South Carolina,45,2024,Other,25
+South Dakota,46,2007,In Hospital,12222
+South Dakota,46,2007,Residence,33
+South Dakota,46,2008,In Hospital,12013
+South Dakota,46,2008,Residence,49
+South Dakota,46,2009,In Hospital,11867
+South Dakota,46,2009,Residence,57
+South Dakota,46,2010,In Hospital,11738
+South Dakota,46,2010,Residence,70
+South Dakota,46,2011,In Hospital,11766
+South Dakota,46,2011,Residence,70
+South Dakota,46,2012,In Hospital,12029
+South Dakota,46,2012,Residence,69
+South Dakota,46,2013,In Hospital,12131
+South Dakota,46,2013,Freestanding Birth Center,38
+South Dakota,46,2013,Residence,77
+South Dakota,46,2014,In Hospital,12180
+South Dakota,46,2014,Freestanding Birth Center,27
+South Dakota,46,2014,Residence,72
+South Dakota,46,2015,In Hospital,12229
+South Dakota,46,2015,Residence,98
+South Dakota,46,2016,In Hospital,12182
+South Dakota,46,2016,Residence,83
+South Dakota,46,2017,In Hospital,12029
+South Dakota,46,2017,Residence,99
+South Dakota,46,2018,In Hospital,11788
+South Dakota,46,2018,Residence,98
+South Dakota,46,2019,In Hospital,11355
+South Dakota,46,2019,Residence,89
+South Dakota,46,2020,In Hospital,10807
+South Dakota,46,2020,Residence,144
+South Dakota,46,2021,In Hospital,11185
+South Dakota,46,2021,Freestanding Birth Center,26
+South Dakota,46,2021,Residence,148
+South Dakota,46,2022,In Hospital,10944
+South Dakota,46,2022,Freestanding Birth Center,26
+South Dakota,46,2022,Residence,226
+South Dakota,46,2023,In Hospital,10920
+South Dakota,46,2023,Freestanding Birth Center,24
+South Dakota,46,2023,Residence,253
+South Dakota,46,2024,In Hospital,11117
+South Dakota,46,2024,Freestanding Birth Center,60
+South Dakota,46,2024,Residence,266
+Tennessee,47,2007,In Hospital,85880
+Tennessee,47,2007,Freestanding Birth Center,270
+Tennessee,47,2007,Residence,474
+Tennessee,47,2007,Other,84
+Tennessee,47,2008,In Hospital,84698
+Tennessee,47,2008,Freestanding Birth Center,238
+Tennessee,47,2008,Clinic/Doctor's Office,10
+Tennessee,47,2008,Residence,513
+Tennessee,47,2008,Other,100
+Tennessee,47,2009,In Hospital,81360
+Tennessee,47,2009,Freestanding Birth Center,288
+Tennessee,47,2009,Clinic/Doctor's Office,14
+Tennessee,47,2009,Residence,530
+Tennessee,47,2009,Other,10
+Tennessee,47,2010,In Hospital,78622
+Tennessee,47,2010,Freestanding Birth Center,302
+Tennessee,47,2010,Clinic/Doctor's Office,17
+Tennessee,47,2010,Residence,546
+Tennessee,47,2011,In Hospital,78622
+Tennessee,47,2011,Freestanding Birth Center,364
+Tennessee,47,2011,Clinic/Doctor's Office,11
+Tennessee,47,2011,Residence,585
+Tennessee,47,2012,In Hospital,79338
+Tennessee,47,2012,Freestanding Birth Center,307
+Tennessee,47,2012,Clinic/Doctor's Office,12
+Tennessee,47,2012,Residence,706
+Tennessee,47,2013,In Hospital,78966
+Tennessee,47,2013,Freestanding Birth Center,265
+Tennessee,47,2013,Clinic/Doctor's Office,22
+Tennessee,47,2013,Residence,731
+Tennessee,47,2014,In Hospital,80445
+Tennessee,47,2014,Freestanding Birth Center,274
+Tennessee,47,2014,Clinic/Doctor's Office,20
+Tennessee,47,2014,Residence,850
+Tennessee,47,2014,Other,11
+Tennessee,47,2015,In Hospital,80490
+Tennessee,47,2015,Freestanding Birth Center,311
+Tennessee,47,2015,Clinic/Doctor's Office,25
+Tennessee,47,2015,Residence,850
+Tennessee,47,2016,In Hospital,79535
+Tennessee,47,2016,Freestanding Birth Center,407
+Tennessee,47,2016,Clinic/Doctor's Office,11
+Tennessee,47,2016,Residence,820
+Tennessee,47,2016,Unknown or Not Stated,31
+Tennessee,47,2017,In Hospital,79978
+Tennessee,47,2017,Freestanding Birth Center,214
+Tennessee,47,2017,Clinic/Doctor's Office,10
+Tennessee,47,2017,Residence,785
+Tennessee,47,2017,Unknown or Not Stated,22
+Tennessee,47,2018,In Hospital,79506
+Tennessee,47,2018,Freestanding Birth Center,297
+Tennessee,47,2018,Clinic/Doctor's Office,12
+Tennessee,47,2018,Residence,896
+Tennessee,47,2018,Unknown or Not Stated,31
+Tennessee,47,2019,In Hospital,79154
+Tennessee,47,2019,Freestanding Birth Center,321
+Tennessee,47,2019,Residence,956
+Tennessee,47,2019,Other,12
+Tennessee,47,2020,In Hospital,77201
+Tennessee,47,2020,Freestanding Birth Center,314
+Tennessee,47,2020,Clinic/Doctor's Office,16
+Tennessee,47,2020,Residence,1126
+Tennessee,47,2020,Other,32
+Tennessee,47,2021,In Hospital,79971
+Tennessee,47,2021,Freestanding Birth Center,304
+Tennessee,47,2021,Clinic/Doctor's Office,17
+Tennessee,47,2021,Residence,1334
+Tennessee,47,2021,Other,91
+Tennessee,47,2022,In Hospital,80343
+Tennessee,47,2022,Freestanding Birth Center,352
+Tennessee,47,2022,Clinic/Doctor's Office,19
+Tennessee,47,2022,Residence,1465
+Tennessee,47,2022,Other,86
+Tennessee,47,2023,In Hospital,80860
+Tennessee,47,2023,Freestanding Birth Center,334
+Tennessee,47,2023,Residence,1777
+Tennessee,47,2023,Other,50
+Tennessee,47,2024,In Hospital,81616
+Tennessee,47,2024,Freestanding Birth Center,374
+Tennessee,47,2024,Residence,1797
+Tennessee,47,2024,Other,44
+Texas,48,2007,In Hospital,404357
+Texas,48,2007,Freestanding Birth Center,1633
+Texas,48,2007,Residence,1556
+Texas,48,2007,Other,62
+Texas,48,2007,Unknown or Not Stated,15
+Texas,48,2008,In Hospital,402201
+Texas,48,2008,Freestanding Birth Center,1655
+Texas,48,2008,Residence,1616
+Texas,48,2008,Other,76
+Texas,48,2009,In Hospital,398579
+Texas,48,2009,Freestanding Birth Center,1628
+Texas,48,2009,Residence,1699
+Texas,48,2009,Other,65
+Texas,48,2010,In Hospital,382400
+Texas,48,2010,Freestanding Birth Center,1828
+Texas,48,2010,Residence,1834
+Texas,48,2010,Other,46
+Texas,48,2011,In Hospital,373511
+Texas,48,2011,Freestanding Birth Center,1995
+Texas,48,2011,Residence,1887
+Texas,48,2011,Other,49
+Texas,48,2012,In Hospital,378304
+Texas,48,2012,Freestanding Birth Center,2309
+Texas,48,2012,Residence,2057
+Texas,48,2012,Other,52
+Texas,48,2013,In Hospital,382725
+Texas,48,2013,Freestanding Birth Center,2564
+Texas,48,2013,Residence,2011
+Texas,48,2013,Other,37
+Texas,48,2014,In Hospital,394284
+Texas,48,2014,Freestanding Birth Center,3001
+Texas,48,2014,Residence,2424
+Texas,48,2014,Other,50
+Texas,48,2015,In Hospital,398159
+Texas,48,2015,Freestanding Birth Center,3101
+Texas,48,2015,Residence,2295
+Texas,48,2015,Other,62
+Texas,48,2016,In Hospital,392471
+Texas,48,2016,Freestanding Birth Center,3181
+Texas,48,2016,Residence,2316
+Texas,48,2016,Other,75
+Texas,48,2017,In Hospital,376488
+Texas,48,2017,Freestanding Birth Center,3117
+Texas,48,2017,Residence,2378
+Texas,48,2017,Other,60
+Texas,48,2018,In Hospital,373168
+Texas,48,2018,Freestanding Birth Center,2973
+Texas,48,2018,Residence,2428
+Texas,48,2018,Other,30
+Texas,48,2018,Unknown or Not Stated,21
+Texas,48,2019,In Hospital,372156
+Texas,48,2019,Freestanding Birth Center,2809
+Texas,48,2019,Residence,2618
+Texas,48,2020,In Hospital,361694
+Texas,48,2020,Freestanding Birth Center,3418
+Texas,48,2020,Residence,3064
+Texas,48,2021,In Hospital,366013
+Texas,48,2021,Freestanding Birth Center,3805
+Texas,48,2021,Residence,3765
+Texas,48,2022,In Hospital,381702
+Texas,48,2022,Freestanding Birth Center,4054
+Texas,48,2022,Residence,3970
+Texas,48,2022,Other,10
+Texas,48,2023,In Hospital,379794
+Texas,48,2023,Freestanding Birth Center,3987
+Texas,48,2023,Residence,4151
+Texas,48,2024,In Hospital,382409
+Texas,48,2024,Freestanding Birth Center,3877
+Texas,48,2024,Residence,4530
+Utah,49,2007,In Hospital,54137
+Utah,49,2007,Freestanding Birth Center,223
+Utah,49,2007,Residence,755
+Utah,49,2007,Other,10
+Utah,49,2008,In Hospital,54586
+Utah,49,2008,Freestanding Birth Center,237
+Utah,49,2008,Residence,797
+Utah,49,2008,Other,12
+Utah,49,2009,In Hospital,52781
+Utah,49,2009,Freestanding Birth Center,255
+Utah,49,2009,Residence,837
+Utah,49,2009,Other,11
+Utah,49,2010,In Hospital,51105
+Utah,49,2010,Freestanding Birth Center,262
+Utah,49,2010,Residence,866
+Utah,49,2010,Other,25
+Utah,49,2011,In Hospital,49908
+Utah,49,2011,Freestanding Birth Center,403
+Utah,49,2011,Residence,899
+Utah,49,2011,Other,12
+Utah,49,2012,In Hospital,49980
+Utah,49,2012,Freestanding Birth Center,453
+Utah,49,2012,Residence,1021
+Utah,49,2012,Other,11
+Utah,49,2013,In Hospital,49426
+Utah,49,2013,Freestanding Birth Center,437
+Utah,49,2013,Residence,1076
+Utah,49,2013,Other,16
+Utah,49,2014,In Hospital,49520
+Utah,49,2014,Freestanding Birth Center,459
+Utah,49,2014,Residence,1160
+Utah,49,2014,Other,15
+Utah,49,2015,In Hospital,49242
+Utah,49,2015,Freestanding Birth Center,452
+Utah,49,2015,Residence,1069
+Utah,49,2015,Other,13
+Utah,49,2016,In Hospital,48917
+Utah,49,2016,Freestanding Birth Center,416
+Utah,49,2016,Residence,1106
+Utah,49,2016,Other,21
+Utah,49,2017,In Hospital,47186
+Utah,49,2017,Freestanding Birth Center,388
+Utah,49,2017,Residence,993
+Utah,49,2017,Other,10
+Utah,49,2018,In Hospital,45711
+Utah,49,2018,Freestanding Birth Center,428
+Utah,49,2018,Residence,1043
+Utah,49,2018,Other,21
+Utah,49,2019,In Hospital,45364
+Utah,49,2019,Freestanding Birth Center,412
+Utah,49,2019,Residence,1027
+Utah,49,2019,Other,20
+Utah,49,2020,In Hospital,43988
+Utah,49,2020,Freestanding Birth Center,500
+Utah,49,2020,Residence,1204
+Utah,49,2021,In Hospital,44758
+Utah,49,2021,Freestanding Birth Center,548
+Utah,49,2021,Residence,1399
+Utah,49,2022,In Hospital,43781
+Utah,49,2022,Freestanding Birth Center,594
+Utah,49,2022,Residence,1385
+Utah,49,2023,In Hospital,43039
+Utah,49,2023,Freestanding Birth Center,561
+Utah,49,2023,Residence,1401
+Utah,49,2023,Other,13
+Utah,49,2024,In Hospital,44600
+Utah,49,2024,Freestanding Birth Center,587
+Utah,49,2024,Residence,1456
+Utah,49,2024,Other,20
+Vermont,50,2007,In Hospital,6388
+Vermont,50,2007,Residence,122
+Vermont,50,2008,In Hospital,6213
+Vermont,50,2008,Residence,124
+Vermont,50,2009,In Hospital,5988
+Vermont,50,2009,Residence,117
+Vermont,50,2010,In Hospital,6089
+Vermont,50,2010,Residence,126
+Vermont,50,2011,In Hospital,5938
+Vermont,50,2011,Residence,129
+Vermont,50,2012,In Hospital,5869
+Vermont,50,2012,Residence,130
+Vermont,50,2013,In Hospital,5837
+Vermont,50,2013,Residence,129
+Vermont,50,2014,In Hospital,5968
+Vermont,50,2014,Residence,152
+Vermont,50,2015,In Hospital,5741
+Vermont,50,2015,Residence,146
+Vermont,50,2016,In Hospital,5609
+Vermont,50,2016,Residence,143
+Vermont,50,2017,In Hospital,5503
+Vermont,50,2017,Residence,145
+Vermont,50,2018,In Hospital,5312
+Vermont,50,2018,Residence,109
+Vermont,50,2019,In Hospital,5227
+Vermont,50,2019,Residence,125
+Vermont,50,2020,In Hospital,4969
+Vermont,50,2020,Residence,155
+Vermont,50,2021,In Hospital,5204
+Vermont,50,2021,Freestanding Birth Center,18
+Vermont,50,2021,Residence,160
+Vermont,50,2022,In Hospital,5130
+Vermont,50,2022,Freestanding Birth Center,11
+Vermont,50,2022,Residence,173
+Vermont,50,2023,In Hospital,4914
+Vermont,50,2023,Freestanding Birth Center,10
+Vermont,50,2023,Residence,139
+Vermont,50,2024,In Hospital,4856
+Vermont,50,2024,Freestanding Birth Center,16
+Vermont,50,2024,Residence,150
+Virginia,51,2007,In Hospital,108155
+Virginia,51,2007,Freestanding Birth Center,95
+Virginia,51,2007,Residence,594
+Virginia,51,2007,Other,40
+Virginia,51,2008,In Hospital,105883
+Virginia,51,2008,Freestanding Birth Center,72
+Virginia,51,2008,Residence,687
+Virginia,51,2008,Other,42
+Virginia,51,2009,In Hospital,104231
+Virginia,51,2009,Freestanding Birth Center,62
+Virginia,51,2009,Residence,721
+Virginia,51,2009,Other,39
+Virginia,51,2010,In Hospital,102013
+Virginia,51,2010,Freestanding Birth Center,106
+Virginia,51,2010,Residence,799
+Virginia,51,2010,Other,81
+Virginia,51,2011,In Hospital,101572
+Virginia,51,2011,Freestanding Birth Center,177
+Virginia,51,2011,Residence,841
+Virginia,51,2011,Other,57
+Virginia,51,2012,In Hospital,101842
+Virginia,51,2012,Freestanding Birth Center,311
+Virginia,51,2012,Residence,827
+Virginia,51,2012,Other,25
+Virginia,51,2013,In Hospital,101086
+Virginia,51,2013,Freestanding Birth Center,289
+Virginia,51,2013,Residence,746
+Virginia,51,2013,Other,20
+Virginia,51,2014,In Hospital,102072
+Virginia,51,2014,Freestanding Birth Center,309
+Virginia,51,2014,Residence,892
+Virginia,51,2014,Other,23
+Virginia,51,2015,In Hospital,102096
+Virginia,51,2015,Freestanding Birth Center,302
+Virginia,51,2015,Residence,879
+Virginia,51,2015,Other,24
+Virginia,51,2016,In Hospital,101162
+Virginia,51,2016,Freestanding Birth Center,284
+Virginia,51,2016,Residence,983
+Virginia,51,2016,Other,20
+Virginia,51,2016,Unknown or Not Stated,10
+Virginia,51,2017,In Hospital,99150
+Virginia,51,2017,Freestanding Birth Center,345
+Virginia,51,2017,Residence,878
+Virginia,51,2017,Other,14
+Virginia,51,2018,In Hospital,98579
+Virginia,51,2018,Freestanding Birth Center,269
+Virginia,51,2018,Residence,968
+Virginia,51,2018,Other,11
+Virginia,51,2018,Unknown or Not Stated,15
+Virginia,51,2019,In Hospital,96085
+Virginia,51,2019,Freestanding Birth Center,376
+Virginia,51,2019,Residence,941
+Virginia,51,2019,Other,24
+Virginia,51,2020,In Hospital,93300
+Virginia,51,2020,Freestanding Birth Center,274
+Virginia,51,2020,Residence,1133
+Virginia,51,2020,Other,40
+Virginia,51,2021,In Hospital,94152
+Virginia,51,2021,Freestanding Birth Center,338
+Virginia,51,2021,Residence,1255
+Virginia,51,2021,Other,74
+Virginia,51,2022,In Hospital,93708
+Virginia,51,2022,Freestanding Birth Center,475
+Virginia,51,2022,Residence,1360
+Virginia,51,2022,Other,81
+Virginia,51,2023,In Hospital,90671
+Virginia,51,2023,Freestanding Birth Center,473
+Virginia,51,2023,Residence,1435
+Virginia,51,2023,Other,66
+Virginia,51,2024,In Hospital,91935
+Virginia,51,2024,Freestanding Birth Center,489
+Virginia,51,2024,Residence,1531
+Virginia,51,2024,Other,92
+Washington,53,2007,In Hospital,86979
+Washington,53,2007,Freestanding Birth Center,744
+Washington,53,2007,Residence,1203
+Washington,53,2007,Other,46
+Washington,53,2008,In Hospital,88162
+Washington,53,2008,Freestanding Birth Center,787
+Washington,53,2008,Residence,1340
+Washington,53,2008,Other,28
+Washington,53,2009,In Hospital,86897
+Washington,53,2009,Freestanding Birth Center,875
+Washington,53,2009,Residence,1490
+Washington,53,2009,Other,47
+Washington,53,2010,In Hospital,83946
+Washington,53,2010,Freestanding Birth Center,939
+Washington,53,2010,Residence,1618
+Washington,53,2010,Other,31
+Washington,53,2011,In Hospital,84201
+Washington,53,2011,Freestanding Birth Center,1095
+Washington,53,2011,Residence,1635
+Washington,53,2011,Other,44
+Washington,53,2012,In Hospital,84453
+Washington,53,2012,Freestanding Birth Center,1182
+Washington,53,2012,Residence,1743
+Washington,53,2012,Other,80
+Washington,53,2013,In Hospital,83365
+Washington,53,2013,Freestanding Birth Center,1273
+Washington,53,2013,Residence,1856
+Washington,53,2013,Other,80
+Washington,53,2014,In Hospital,85159
+Washington,53,2014,Freestanding Birth Center,1304
+Washington,53,2014,Residence,2049
+Washington,53,2014,Other,66
+Washington,53,2015,In Hospital,85461
+Washington,53,2015,Freestanding Birth Center,1421
+Washington,53,2015,Residence,2029
+Washington,53,2015,Other,77
+Washington,53,2016,In Hospital,87009
+Washington,53,2016,Freestanding Birth Center,1463
+Washington,53,2016,Residence,1926
+Washington,53,2016,Other,100
+Washington,53,2017,In Hospital,84265
+Washington,53,2017,Freestanding Birth Center,1351
+Washington,53,2017,Residence,1877
+Washington,53,2017,Other,56
+Washington,53,2018,In Hospital,82848
+Washington,53,2018,Freestanding Birth Center,1301
+Washington,53,2018,Clinic/Doctor's Office,13
+Washington,53,2018,Residence,1822
+Washington,53,2018,Other,100
+Washington,53,2019,In Hospital,81831
+Washington,53,2019,Freestanding Birth Center,1230
+Washington,53,2019,Residence,1745
+Washington,53,2019,Other,85
+Washington,53,2020,In Hospital,79456
+Washington,53,2020,Freestanding Birth Center,1403
+Washington,53,2020,Residence,2140
+Washington,53,2020,Other,78
+Washington,53,2021,In Hospital,80108
+Washington,53,2021,Freestanding Birth Center,1598
+Washington,53,2021,Residence,2116
+Washington,53,2021,Other,85
+Washington,53,2022,In Hospital,79436
+Washington,53,2022,Freestanding Birth Center,1670
+Washington,53,2022,Residence,2127
+Washington,53,2022,Other,93
+Washington,53,2023,In Hospital,77137
+Washington,53,2023,Freestanding Birth Center,1761
+Washington,53,2023,Residence,1929
+Washington,53,2023,Other,98
+Washington,53,2024,In Hospital,79252
+Washington,53,2024,Freestanding Birth Center,1723
+Washington,53,2024,Residence,2029
+Washington,53,2024,Other,107
+West Virginia,54,2007,In Hospital,21876
+West Virginia,54,2007,Residence,78
+West Virginia,54,2007,Unknown or Not Stated,35
+West Virginia,54,2008,In Hospital,21407
+West Virginia,54,2008,Residence,65
+West Virginia,54,2008,Unknown or Not Stated,26
+West Virginia,54,2009,In Hospital,21159
+West Virginia,54,2009,Residence,78
+West Virginia,54,2009,Unknown or Not Stated,26
+West Virginia,54,2010,In Hospital,20333
+West Virginia,54,2010,Freestanding Birth Center,27
+West Virginia,54,2010,Residence,105
+West Virginia,54,2011,In Hospital,20561
+West Virginia,54,2011,Freestanding Birth Center,22
+West Virginia,54,2011,Residence,124
+West Virginia,54,2012,In Hospital,20676
+West Virginia,54,2012,Freestanding Birth Center,13
+West Virginia,54,2012,Residence,130
+West Virginia,54,2013,In Hospital,20670
+West Virginia,54,2013,Freestanding Birth Center,28
+West Virginia,54,2013,Residence,114
+West Virginia,54,2014,In Hospital,20125
+West Virginia,54,2014,Freestanding Birth Center,24
+West Virginia,54,2014,Residence,137
+West Virginia,54,2014,Other,15
+West Virginia,54,2015,In Hospital,19632
+West Virginia,54,2015,Freestanding Birth Center,12
+West Virginia,54,2015,Residence,139
+West Virginia,54,2015,Other,22
+West Virginia,54,2016,In Hospital,18922
+West Virginia,54,2016,Freestanding Birth Center,16
+West Virginia,54,2016,Residence,112
+West Virginia,54,2016,Other,28
+West Virginia,54,2017,In Hospital,18494
+West Virginia,54,2017,Freestanding Birth Center,28
+West Virginia,54,2017,Residence,125
+West Virginia,54,2017,Other,27
+West Virginia,54,2018,In Hospital,18063
+West Virginia,54,2018,Freestanding Birth Center,30
+West Virginia,54,2018,Residence,130
+West Virginia,54,2018,Other,25
+West Virginia,54,2019,In Hospital,17950
+West Virginia,54,2019,Freestanding Birth Center,32
+West Virginia,54,2019,Residence,136
+West Virginia,54,2019,Other,16
+West Virginia,54,2020,In Hospital,17129
+West Virginia,54,2020,Freestanding Birth Center,41
+West Virginia,54,2020,Residence,136
+West Virginia,54,2020,Other,16
+West Virginia,54,2021,In Hospital,16920
+West Virginia,54,2021,Freestanding Birth Center,37
+West Virginia,54,2021,Residence,203
+West Virginia,54,2021,Other,37
+West Virginia,54,2022,In Hospital,16640
+West Virginia,54,2022,Freestanding Birth Center,31
+West Virginia,54,2022,Residence,221
+West Virginia,54,2022,Other,35
+West Virginia,54,2023,In Hospital,16322
+West Virginia,54,2023,Freestanding Birth Center,27
+West Virginia,54,2023,Residence,221
+West Virginia,54,2023,Other,32
+West Virginia,54,2024,In Hospital,16690
+West Virginia,54,2024,Freestanding Birth Center,37
+West Virginia,54,2024,Residence,261
+West Virginia,54,2024,Other,34
+Wisconsin,55,2007,In Hospital,71550
+Wisconsin,55,2007,Freestanding Birth Center,67
+Wisconsin,55,2007,Clinic/Doctor's Office,72
+Wisconsin,55,2007,Residence,1077
+Wisconsin,55,2007,Other,16
+Wisconsin,55,2008,In Hospital,70954
+Wisconsin,55,2008,Freestanding Birth Center,50
+Wisconsin,55,2008,Clinic/Doctor's Office,91
+Wisconsin,55,2008,Residence,1137
+Wisconsin,55,2008,Other,28
+Wisconsin,55,2009,In Hospital,69507
+Wisconsin,55,2009,Freestanding Birth Center,59
+Wisconsin,55,2009,Clinic/Doctor's Office,76
+Wisconsin,55,2009,Residence,1177
+Wisconsin,55,2009,Other,23
+Wisconsin,55,2010,In Hospital,67090
+Wisconsin,55,2010,Freestanding Birth Center,59
+Wisconsin,55,2010,Clinic/Doctor's Office,99
+Wisconsin,55,2010,Residence,1186
+Wisconsin,55,2010,Other,53
+Wisconsin,55,2011,In Hospital,66371
+Wisconsin,55,2011,Freestanding Birth Center,103
+Wisconsin,55,2011,Clinic/Doctor's Office,96
+Wisconsin,55,2011,Residence,1135
+Wisconsin,55,2011,Other,102
+Wisconsin,55,2012,In Hospital,65817
+Wisconsin,55,2012,Freestanding Birth Center,105
+Wisconsin,55,2012,Clinic/Doctor's Office,110
+Wisconsin,55,2012,Residence,1252
+Wisconsin,55,2012,Other,10
+Wisconsin,55,2013,In Hospital,65083
+Wisconsin,55,2013,Freestanding Birth Center,148
+Wisconsin,55,2013,Clinic/Doctor's Office,105
+Wisconsin,55,2013,Residence,1305
+Wisconsin,55,2014,In Hospital,65422
+Wisconsin,55,2014,Freestanding Birth Center,208
+Wisconsin,55,2014,Clinic/Doctor's Office,130
+Wisconsin,55,2014,Residence,1391
+Wisconsin,55,2014,Other,10
+Wisconsin,55,2015,In Hospital,65296
+Wisconsin,55,2015,Freestanding Birth Center,202
+Wisconsin,55,2015,Clinic/Doctor's Office,107
+Wisconsin,55,2015,Residence,1434
+Wisconsin,55,2016,In Hospital,64884
+Wisconsin,55,2016,Freestanding Birth Center,226
+Wisconsin,55,2016,Clinic/Doctor's Office,101
+Wisconsin,55,2016,Residence,1398
+Wisconsin,55,2017,In Hospital,63220
+Wisconsin,55,2017,Freestanding Birth Center,272
+Wisconsin,55,2017,Clinic/Doctor's Office,115
+Wisconsin,55,2017,Residence,1366
+Wisconsin,55,2018,In Hospital,62259
+Wisconsin,55,2018,Freestanding Birth Center,269
+Wisconsin,55,2018,Clinic/Doctor's Office,107
+Wisconsin,55,2018,Residence,1458
+Wisconsin,55,2019,In Hospital,61281
+Wisconsin,55,2019,Freestanding Birth Center,267
+Wisconsin,55,2019,Clinic/Doctor's Office,113
+Wisconsin,55,2019,Residence,1604
+Wisconsin,55,2020,In Hospital,58447
+Wisconsin,55,2020,Freestanding Birth Center,336
+Wisconsin,55,2020,Clinic/Doctor's Office,98
+Wisconsin,55,2020,Residence,1706
+Wisconsin,55,2021,In Hospital,59433
+Wisconsin,55,2021,Freestanding Birth Center,357
+Wisconsin,55,2021,Clinic/Doctor's Office,40
+Wisconsin,55,2021,Residence,1943
+Wisconsin,55,2022,In Hospital,57739
+Wisconsin,55,2022,Freestanding Birth Center,436
+Wisconsin,55,2022,Residence,1862
+Wisconsin,55,2023,In Hospital,57330
+Wisconsin,55,2023,Freestanding Birth Center,446
+Wisconsin,55,2023,Residence,1971
+Wisconsin,55,2024,In Hospital,56985
+Wisconsin,55,2024,Freestanding Birth Center,434
+Wisconsin,55,2024,Residence,2261
+Wyoming,56,2007,In Hospital,7829
+Wyoming,56,2007,Residence,58
+Wyoming,56,2008,In Hospital,7967
+Wyoming,56,2008,Residence,58
+Wyoming,56,2009,In Hospital,7822
+Wyoming,56,2009,Residence,52
+Wyoming,56,2010,In Hospital,7470
+Wyoming,56,2010,Residence,75
+Wyoming,56,2011,In Hospital,7285
+Wyoming,56,2011,Freestanding Birth Center,17
+Wyoming,56,2011,Residence,93
+Wyoming,56,2012,In Hospital,7427
+Wyoming,56,2012,Freestanding Birth Center,16
+Wyoming,56,2012,Residence,118
+Wyoming,56,2012,Other,10
+Wyoming,56,2013,In Hospital,7498
+Wyoming,56,2013,Freestanding Birth Center,21
+Wyoming,56,2013,Residence,118
+Wyoming,56,2014,In Hospital,7524
+Wyoming,56,2014,Freestanding Birth Center,16
+Wyoming,56,2014,Residence,144
+Wyoming,56,2014,Other,12
+Wyoming,56,2015,In Hospital,7598
+Wyoming,56,2015,Residence,147
+Wyoming,56,2016,In Hospital,7186
+Wyoming,56,2016,Freestanding Birth Center,14
+Wyoming,56,2016,Residence,182
+Wyoming,56,2017,In Hospital,6734
+Wyoming,56,2017,Residence,160
+Wyoming,56,2018,In Hospital,6415
+Wyoming,56,2018,Residence,126
+Wyoming,56,2018,Other,10
+Wyoming,56,2019,In Hospital,6422
+Wyoming,56,2019,Residence,130
+Wyoming,56,2020,In Hospital,5957
+Wyoming,56,2020,Freestanding Birth Center,29
+Wyoming,56,2020,Residence,138
+Wyoming,56,2021,In Hospital,6044
+Wyoming,56,2021,Freestanding Birth Center,33
+Wyoming,56,2021,Residence,145
+Wyoming,56,2022,In Hospital,5836
+Wyoming,56,2022,Freestanding Birth Center,43
+Wyoming,56,2022,Residence,166
+Wyoming,56,2023,In Hospital,5769
+Wyoming,56,2023,Freestanding Birth Center,28
+Wyoming,56,2023,Residence,182
+Wyoming,56,2024,In Hospital,5831
+Wyoming,56,2024,Freestanding Birth Center,36
+Wyoming,56,2024,Residence,210
+Wyoming,56,2024,Other,10

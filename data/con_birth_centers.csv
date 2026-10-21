@@ -1,0 +1,52 @@
+state,state_name,con_birth_centers_2015,con_birth_centers_2025,repeal_effective,repeal_law,con_scope_note,source
+AL,Alabama,1,1,,,Full CON review for freestanding birth centers,PLF 2025 Figure 2
+AK,Alaska,1,1,,,CON applies only above an expenditure threshold so most birth centers would not trigger review,PLF 2025 Figure 2
+AZ,Arizona,0,0,,,CON applies only to ambulance services,Cicero 2025
+AR,Arkansas,0,0,,,Birth centers not a covered facility,PLF 2025 Figure 2
+CA,California,0,0,,,No CON program,PLF 2025 Figure 2
+CO,Colorado,0,0,,,No CON program,PLF 2025 Figure 2
+CT,Connecticut,1,0,2024-01-01,Public Act 23-147 (SB 986),Birth centers enrolled in Medicaid or CHIP exempt from CON through June 30 2028; licensure created the same day,CGA OLR bill summary of PA 23-147
+DE,Delaware,1,1,,,Free-standing birthing centers listed as a covered facility,NCSL April 2025; PLF 2025 Figure 2
+DC,District of Columbia,1,1,,,CON covers birth centers,PLF 2025 Figure 2
+FL,Florida,0,0,,,Florida CON never covered birth centers; hospital CON repealed 2019,NCSL April 2025
+GA,Georgia,1,0,2024-07-01,HB 1339 (2024),Outpatient birthing centers added to the CON exemption list effective July 1 2024; hospital transfer agreement still required,Maynard Nexsen summary of HB 1339; PLF 2025
+HI,Hawaii,1,1,,,CON covers birth centers,PLF 2025 Figure 2
+ID,Idaho,0,0,,,No CON program,PLF 2025 Figure 2
+IL,Illinois,1,1,,,Birthing centers listed as a covered facility; CON law sunsets December 2029,NCSL April 2025; PLF 2025 Figure 2
+IN,Indiana,0,0,,,CON re-established 2018 for comprehensive care beds only,NCSL April 2025
+IA,Iowa,0,0,,,NCSL lists birthing centers for Iowa but Iowa Code 135.61 (2026) does not include birth centers in the institutional health facility definition; coded as not covered,Iowa Code 135.61; NCSL April 2025
+KS,Kansas,0,0,,,No CON program,PLF 2025 Figure 2
+KY,Kentucky,1,0,2025-06-27,HB 90 (2025),Small freestanding birth centers exempt from CON with accreditation and a hospital within 30 miles; no freestanding birth center had operated in Kentucky since the 1980s,Louisville Public Media June 2025; PLF 2025
+LA,Louisiana,0,0,,,CON limited to nursing facilities and similar,NCSL April 2025
+ME,Maine,0,0,,,Birth centers not a covered facility,PLF 2025 Figure 2
+MD,Maryland,1,1,,,CON covers birth centers,PLF 2025 Figure 2
+MA,Massachusetts,0,0,,,Determination of need does not cover birth centers,PLF 2025 Figure 2
+MI,Michigan,1,0,2025-04-02,HB 5636 / Public Act 252 of 2024,Freestanding birth center licensure act signed January 21 2025; PLF counts it as a CON repeal for birth centers; effective date is the standard 91 days after sine die and is an estimate,MichiganVotes; PLF 2025 note 27
+MN,Minnesota,0,0,,,No CON program,PLF 2025 Figure 2
+MS,Mississippi,0,0,,,Birth centers not a covered facility per PLF,PLF 2025 Figure 2
+MO,Missouri,0,0,,,CON limited to long-term care,NCSL April 2025
+MT,Montana,0,0,,,CON limited to long-term care since 2021,NCSL April 2025
+NE,Nebraska,0,0,,,CON limited to long-term care beds,NCSL April 2025
+NV,Nevada,1,1,,,CON applies only in counties under 100000 population,PLF 2025 Figure 2
+NH,New Hampshire,0,0,,,CON repealed 2016,NCSL April 2025
+NJ,New Jersey,0,0,,,Birth centers not a covered facility,PLF 2025 Figure 2
+NM,New Mexico,0,0,,,CON applies only to ambulance services,Cicero 2025
+NY,New York,1,1,,,CON review for new birth centers takes up to two years and up to $250000 in up-front costs per PLF,PLF 2025 Figure 2
+NC,North Carolina,0,0,,,Birth centers not a covered facility,PLF 2025 Figure 2
+ND,North Dakota,0,0,,,No CON program,PLF 2025 Figure 2
+OH,Ohio,0,0,,,CON limited to long-term care beds,NCSL April 2025
+OK,Oklahoma,0,0,,,CON limited to long-term care and psychiatric,NCSL April 2025
+OR,Oregon,0,0,,,Birth centers not a covered facility,PLF 2025 Figure 2
+PA,Pennsylvania,0,0,,,CON expired 1996,NCSL April 2025
+RI,Rhode Island,0,0,,,Birth centers not a covered facility,PLF 2025 Figure 2
+SC,South Carolina,0,0,,,CON repealed 2023 except nursing homes and some hospital requirements; birth centers were not a listed covered facility before that,NCSL April 2025
+SD,South Dakota,0,0,,,No CON program,PLF 2025 Figure 2
+TN,Tennessee,1,1,,,CON still covers birth centers after the 2024 staged reform,PLF 2025 Figure 2
+TX,Texas,0,0,,,No CON program,PLF 2025 Figure 2
+UT,Utah,0,0,,,No CON program,PLF 2025 Figure 2
+VT,Vermont,1,0,2025-07-01,S.18 (2025),Birthing centers were a covered facility; PLF counts S.18 as a repeal for birth centers; effective date assumed July 1 2025,NCSL April 2025; PLF 2025 note 28
+VA,Virginia,0,0,,,COPN does not cover birth centers,PLF 2025 Figure 2
+WA,Washington,0,0,,,Birth centers not a covered facility,PLF 2025 Figure 2
+WV,West Virginia,1,0,2023-06-09,SB 613 (2023),Birthing centers exempt from CON review; effective 90 days from passage so the date is approximate,NCSL April 2025; PLF 2025 note 29
+WI,Wisconsin,0,0,,,No CON program,PLF 2025 Figure 2
+WY,Wyoming,0,0,,,No CON program,PLF 2025 Figure 2
